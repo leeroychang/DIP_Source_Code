@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2fb9fe7eb5f2d43884106a1491cb4a, type: 3}
+  m_Name: Scaling
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  displayName: God's Idol
+  type: 0
+  shape: 1
+  lvlModifiers:
+  - rid: 2272856127954485340
+  - rid: 2272856127954485341
+  - rid: 2272856127954485342
+  references:
+    version: 2
+    RefIds:
+    - rid: 2272856127954485340
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers: []
+        desc: A decorative idol...?
+    - rid: 2272856127954485341
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers: []
+        desc: Energy pulses within the idol...
+    - rid: 2272856127954485342
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 2272856127954485343
+        - rid: 2272856127954485344
+        desc: Power channels through the idol.\n+300% Damage \n-50% Cooldown
+    - rid: 2272856127954485343
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 3
+    - rid: 2272856127954485344
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 1
+        value: -0.5

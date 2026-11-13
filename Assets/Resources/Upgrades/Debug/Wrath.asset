@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2fb9fe7eb5f2d43884106a1491cb4a, type: 3}
+  m_Name: Wrath
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  displayName: Wrath
+  type: 0
+  shape: 1
+  lvlModifiers:
+  - rid: 5810548927688081492
+  - rid: 5810548927688081495
+  - rid: 5810548927688081497
+  references:
+    version: 2
+    RefIds:
+    - rid: 5810548927688081492
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 5810548927688081493
+        desc: +50% DMG
+    - rid: 5810548927688081493
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 0.5
+    - rid: 5810548927688081495
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 5810548927688081496
+        desc: +120% DMG
+    - rid: 5810548927688081496
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 1.2
+    - rid: 5810548927688081497
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 5810548927688081498
+        desc: +300% DMG
+    - rid: 5810548927688081498
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 3

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: FlameWreath
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: Flame Wreath
+  icon: {fileID: 21300000, guid: 87ae6aaec566fd74da45580dcd4cc12d, type: 3}
+  desc: Adorned with a fiery wreath, casting skills triggers an additional fireball
+  element: 1
+  altAtk: 0
+  _skillType:
+    rid: 8242146122798989394
+  references:
+    version: 2
+    RefIds:
+    - rid: 8242146122798989394
+      type: {class: SkillBuff_FlameWreath, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 15
+        charge: 1
+        castTime: 0
+        aniTime: 0
+        damageTypes: 
+        duration: 5
+        triggerSkilldata: {fileID: 11400000, guid: cd3733f8c14a54b4c9f7c6c290c0e4bf, type: 2}

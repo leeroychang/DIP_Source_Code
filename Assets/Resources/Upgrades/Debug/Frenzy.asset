@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2fb9fe7eb5f2d43884106a1491cb4a, type: 3}
+  m_Name: Frenzy
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  displayName: Frenzy
+  type: 0
+  shape: 1
+  lvlModifiers:
+  - rid: 2272856127954485345
+  - rid: 2272856127954485348
+  - rid: 2272856127954485351
+  references:
+    version: 2
+    RefIds:
+    - rid: 2272856127954485345
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 2272856127954485346
+        - rid: 4231924720527474759
+        desc: +30% Damage\n-10% Cooldown
+    - rid: 2272856127954485346
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 0.3
+    - rid: 2272856127954485348
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 2272856127954485349
+        - rid: 4231924720527474760
+        desc: +60% Damage\n-20% Cooldown
+    - rid: 2272856127954485349
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 0.6
+    - rid: 2272856127954485351
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 2272856127954485352
+        - rid: 4231924720527474761
+        desc: +120% Damage\n-30% Cooldown
+    - rid: 2272856127954485352
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 1.2
+    - rid: 4231924720527474759
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 1
+        value: -0.1
+    - rid: 4231924720527474760
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 1
+        value: -0.2
+    - rid: 4231924720527474761
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 1
+        value: -0.3

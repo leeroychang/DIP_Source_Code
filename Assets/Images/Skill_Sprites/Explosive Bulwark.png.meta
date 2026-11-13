@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 93ce476e1df6f2c43894fdb744f7222d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 104586460919432405
+    second: Explosive Bulwark_0
+  - first:
+      213: 3330234940477306473
+    second: Explosive Bulwark_1
+  - first:
+      213: -7826697110567090180
+    second: Explosive Bulwark_2
+  - first:
+      213: 5320838063931701778
+    second: Explosive Bulwark_3
+  - first:
+      213: -6857117785995364199
+    second: Explosive Bulwark_4
+  - first:
+      213: -6195320677550099642
+    second: Explosive Bulwark_5
+  - first:
+      213: -5439058439533897744
+    second: Explosive Bulwark_6
+  - first:
+      213: -4247477907990534694
+    second: Explosive Bulwark_7
+  - first:
+      213: 3855689184073157191
+    second: Explosive Bulwark_8
+  - first:
+      213: 1509826144210401359
+    second: Explosive Bulwark_9
+  - first:
+      213: 3762037795964750671
+    second: Explosive Bulwark_10
+  - first:
+      213: -529255160820035856
+    second: Explosive Bulwark_11
+  - first:
+      213: 4830589557749705763
+    second: Explosive Bulwark_12
+  - first:
+      213: -7622574823673333790
+    second: Explosive Bulwark_13
+  - first:
+      213: 2774128272467433710
+    second: Explosive Bulwark_14
+  - first:
+      213: 1779260829908832117
+    second: Explosive Bulwark_15
+  - first:
+      213: -6264695882034729654
+    second: Explosive Bulwark_16
+  - first:
+      213: 3327867581744449392
+    second: Explosive Bulwark_17
+  - first:
+      213: 6283046055854715277
+    second: Explosive Bulwark_18
+  - first:
+      213: -1948223882177572844
+    second: Explosive Bulwark_19
+  - first:
+      213: -6679201626469674894
+    second: Explosive Bulwark_20
+  - first:
+      213: 6631694714350691774
+    second: Explosive Bulwark_21
+  - first:
+      213: 8820058999673599371
+    second: Explosive Bulwark_22
+  - first:
+      213: 8952212629475787466
+    second: Explosive Bulwark_23
+  - first:
+      213: -1101662397391602451
+    second: Explosive Bulwark_24
+  - first:
+      213: -2028534967915443556
+    second: Explosive Bulwark_25
+  - first:
+      213: 5025014572476599643
+    second: Explosive Bulwark_26
+  - first:
+      213: 5053009908289506822
+    second: Explosive Bulwark_27
+  - first:
+      213: 8193313310930077576
+    second: Explosive Bulwark_28
+  - first:
+      213: 5519162507660116783
+    second: Explosive Bulwark_29
+  - first:
+      213: 1114282365199885393
+    second: Explosive Bulwark_30
+  - first:
+      213: 944936329674353626
+    second: Explosive Bulwark_31
+  - first:
+      213: -1361274296440732424
+    second: Explosive Bulwark_32
+  - first:
+      213: -2658504397531886565
+    second: Explosive Bulwark_33
+  - first:
+      213: 8848531989010089258
+    second: Explosive Bulwark_34
+  - first:
+      213: 3622462802299535413
+    second: Explosive Bulwark_35
+  - first:
+      213: 5953918596428051617
+    second: Explosive Bulwark_36
+  - first:
+      213: -5866758421417852924
+    second: Explosive Bulwark_37
+  - first:
+      213: -2274773102580815481
+    second: Explosive Bulwark_38
+  - first:
+      213: 7573501428441907310
+    second: Explosive Bulwark_39
+  - first:
+      213: -3901995262063765055
+    second: Explosive Bulwark_40
+  - first:
+      213: 436116327830152320
+    second: Explosive Bulwark_41
+  - first:
+      213: 67244818175479251
+    second: Explosive Bulwark_42
+  - first:
+      213: -7164703078415806744
+    second: Explosive Bulwark_43
+  - first:
+      213: -5330596580442618698
+    second: Explosive Bulwark_44
+  - first:
+      213: -6651178796667959578
+    second: Explosive Bulwark_45
+  - first:
+      213: 8364003049449568769
+    second: Explosive Bulwark_46
+  - first:
+      213: -2292749036586941288
+    second: Explosive Bulwark_47
+  - first:
+      213: 4241256491050478214
+    second: Explosive Bulwark_48
+  - first:
+      213: 9390906855625360
+    second: Explosive Bulwark_49
+  - first:
+      213: -6443502059606274324
+    second: Explosive Bulwark_50
+  - first:
+      213: -3962086693608068808
+    second: Explosive Bulwark_51
+  - first:
+      213: -7158402121479405238
+    second: Explosive Bulwark_52
+  - first:
+      213: -4824091804222693551
+    second: Explosive Bulwark_53
+  - first:
+      213: 3176365369459312253
+    second: Explosive Bulwark_54
+  - first:
+      213: 800406096599500114
+    second: Explosive Bulwark_55
+  - first:
+      213: -1855593978803835822
+    second: Explosive Bulwark_56
+  - first:
+      213: 1428731698517274157
+    second: Explosive Bulwark_57
+  - first:
+      213: 6736565396349484622
+    second: Explosive Bulwark_58
+  - first:
+      213: -5333608057754365173
+    second: Explosive Bulwark_59
+  - first:
+      213: 6687456839958716872
+    second: Explosive Bulwark_60
+  - first:
+      213: -8712625310485140522
+    second: Explosive Bulwark_61
+  - first:
+      213: -4251525233320263814
+    second: Explosive Bulwark_62
+  - first:
+      213: 5297124074950654823
+    second: Explosive Bulwark_63
+  - first:
+      213: 837942971496161278
+    second: Explosive Bulwark_64
+  - first:
+      213: -1686999831280284214
+    second: Explosive Bulwark_65
+  - first:
+      213: -79704945877030639
+    second: Explosive Bulwark_66
+  - first:
+      213: 813294091532610834
+    second: Explosive Bulwark_67
+  - first:
+      213: -8911535847954839378
+    second: Explosive Bulwark_68
+  - first:
+      213: -5251537810989181352
+    second: Explosive Bulwark_69
+  - first:
+      213: -5226919947957183216
+    second: Explosive Bulwark_70
+  - first:
+      213: 7186884839846340418
+    second: Explosive Bulwark_71
+  - first:
+      213: -1563889550235854774
+    second: Explosive Bulwark_72
+  - first:
+      213: 476487105919318057
+    second: Explosive Bulwark_73
+  - first:
+      213: 3729421546581611507
+    second: Explosive Bulwark_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosive Bulwark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d40b6305d0937100800000000000000
+      internalID: 104586460919432405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667eb5b80f573e20800000000000000
+      internalID: 3330234940477306473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78210127cf16390800000000000000
+      internalID: -7826697110567090180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab604370a67d940800000000000000
+      internalID: 5320838063931701778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bbb644bf96d0a0800000000000000
+      internalID: -6857117785995364199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6437ef00bacc50aa0800000000000000
+      internalID: -6195320677550099642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7ddf6aa259484b0800000000000000
+      internalID: -5439058439533897744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5a7e6c85ded05c0800000000000000
+      internalID: -4247477907990534694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a0ff472e8228530800000000000000
+      internalID: 3855689184073157191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483246f0eaf3f410800000000000000
+      internalID: 1509826144210401359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b821c7171753430800000000000000
+      internalID: 3762037795964750671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe87cf3c35b7a8f0800000000000000
+      internalID: -529255160820035856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce165fb93b90340800000000000000
+      internalID: 4830589557749705763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosive Bulwark_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77d11859c273690800000000000000
+      internalID: -7622574823673333790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b0cace93279dabd4db6a8c58e632d08f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Explosive Bulwark_0: 104586460919432405
+      Explosive Bulwark_1: 3330234940477306473
+      Explosive Bulwark_10: 3762037795964750671
+      Explosive Bulwark_11: -529255160820035856
+      Explosive Bulwark_12: 4830589557749705763
+      Explosive Bulwark_13: -7622574823673333790
+      Explosive Bulwark_2: -7826697110567090180
+      Explosive Bulwark_3: 5320838063931701778
+      Explosive Bulwark_4: -6857117785995364199
+      Explosive Bulwark_5: -6195320677550099642
+      Explosive Bulwark_6: -5439058439533897744
+      Explosive Bulwark_7: -4247477907990534694
+      Explosive Bulwark_8: 3855689184073157191
+      Explosive Bulwark_9: 1509826144210401359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

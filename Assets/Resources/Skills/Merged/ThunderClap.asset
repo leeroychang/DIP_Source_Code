@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e69857daec75f24ba21373a53db3031, type: 3}
+  m_Name: ThunderClap
+  m_EditorClassIdentifier: Assembly-CSharp::MergedSkillData
+  displayName: Thunder Clap
+  icon: {fileID: -255157303, guid: 6519671d69a8cfd4baa6271884b6a01d, type: 3}
+  desc: Enters a charging stance, unleashing a lightning fast slash with forward
+    momentum.
+  element: 4
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 4231924769270530119
+  MergeSkill1: {fileID: 11400000, guid: 79d49859b2b09864c9e97c93a84fb88f, type: 2}
+  MergeSkill2: {fileID: 11400000, guid: f89d200d81dfb0443abd84f4e383b1a1, type: 2}
+  showList: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 4231924769270530119
+      type: {class: SkillChannel_Block, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 8
+        charge: 1
+        castTime: 0
+        aniTime: 2
+        statusChance: 0.5
+        damageTypes: 0100000004000000
+        castData: {fileID: 11400000, guid: df37c49e9b5836c489038a58fa12c21c, type: 2}
+        duration: 2
+        interval: 0.1
+        blockRatio: 0.3
+        parryDuration: 0
+        intervalMulti: 0.1
+        maxMulti: 2
+        BlockPrefab: {fileID: 8778436776550869048, guid: bcff18447773769458087894cdf07908, type: 3}

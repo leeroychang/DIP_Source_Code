@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: TutorialRockPunch
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: Rock Fist
+  icon: {fileID: -1450697375, guid: 73b6de5be46d41c4480992b2e079ce9a, type: 3}
+  desc: Unleash a punch with compressed rocks, damaging and knocking back enemies.
+  element: 2
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 8242146504788148312
+  references:
+    version: 2
+    RefIds:
+    - rid: 8242146504788148312
+      type: {class: SkillMelee, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 3
+        charge: 1
+        castTime: 0.1
+        aniTime: 0.1
+        statusChance: 1
+        damageTypes: 01000000
+        damage: 20
+        duration: 0.4
+        attackPrefab: {fileID: 5962985199973794824, guid: b770eb3655fd7cc48a6f16eb93abbe11, type: 3}
+        minDistance: 0.5
+        maxDistance: 0.5
+        knockback: 5

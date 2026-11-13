@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2fb9fe7eb5f2d43884106a1491cb4a, type: 3}
+  m_Name: Pierce
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  displayName: Pierce
+  type: 0
+  shape: 0
+  lvlModifiers:
+  - rid: 4231924720527474762
+  - rid: 4231924720527474765
+  - rid: 4231924720527474767
+  references:
+    version: 2
+    RefIds:
+    - rid: 4231924720527474762
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 4231924720527474763
+        desc: +15% Armor Penetration
+    - rid: 4231924720527474763
+      type: {class: ModifierPEN, ns: , asm: Assembly-CSharp}
+      data:
+        operation: 1
+        val: 0.15
+    - rid: 4231924720527474765
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 4231924720527474766
+        desc: +25% Armor Penetration
+    - rid: 4231924720527474766
+      type: {class: ModifierPEN, ns: , asm: Assembly-CSharp}
+      data:
+        operation: 1
+        val: 0.25
+    - rid: 4231924720527474767
+      type: {class: UpgradeData/ModifierSet, ns: , asm: Assembly-CSharp}
+      data:
+        modifiers:
+        - rid: 4231924720527474768
+        - rid: 4231924782328447047
+        desc: +40% Armor Penetration\n+10% Damage
+    - rid: 4231924720527474768
+      type: {class: ModifierPEN, ns: , asm: Assembly-CSharp}
+      data:
+        operation: 1
+        val: 0.4
+    - rid: 4231924782328447047
+      type: {class: ModifierStat, ns: , asm: Assembly-CSharp}
+      data:
+        stat: 0
+        value: 0.1

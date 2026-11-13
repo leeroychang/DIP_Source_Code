@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e69857daec75f24ba21373a53db3031, type: 3}
+  m_Name: MagmaFist
+  m_EditorClassIdentifier: Assembly-CSharp::MergedSkillData
+  displayName: Magma Fist
+  icon: {fileID: -628798171, guid: 73b6de5be46d41c4480992b2e079ce9a, type: 3}
+  desc: Send out a punch exploding on contact
+  element: 1
+  elementMerge: 2
+  altAtk: 0
+  _skillType:
+    rid: 8242146583189389387
+  MergeSkill1: {fileID: 11400000, guid: 6035a974b727b534db73a04a505a595c, type: 2}
+  MergeSkill2: {fileID: 11400000, guid: 79d49859b2b09864c9e97c93a84fb88f, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 8242146583189389387
+      type: {class: SkillMelee_OnHit, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 5
+        charge: 1
+        castTime: 0.1
+        aniTime: 0.2
+        statusChance: 1
+        damageTypes: 01000000
+        damage: 10
+        duration: 0.3
+        attackPrefab: {fileID: 5962985199973794824, guid: ce4ac5cad1c223643b71134f0aa9d154, type: 3}
+        minDistance: 0.3
+        maxDistance: 0.3
+        knockback: 0
+        OnHitPrefab: {fileID: 2521410016809555918, guid: b1faa7ccb042daf47b08d45e27fbc103, type: 3}
+        status:
+          rid: -2

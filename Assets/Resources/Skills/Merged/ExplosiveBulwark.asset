@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e69857daec75f24ba21373a53db3031, type: 3}
+  m_Name: ExplosiveBulwark
+  m_EditorClassIdentifier: Assembly-CSharp::MergedSkillData
+  displayName: Explosive Bulwark
+  icon: {fileID: 21300000, guid: 47cb6c3e4a93ca946a73581d7672da89, type: 3}
+  desc: Place a bulwark that blocks projectiles, exploding when destroyed.
+  element: 1
+  elementMerge: 2
+  altAtk: 0
+  _skillType:
+    rid: 4231924805348622408
+  MergeSkill1: {fileID: 11400000, guid: 85a056ab28133a542bcf960100c57ebc, type: 2}
+  MergeSkill2: {fileID: 11400000, guid: 838761151a8afee47869b08fb5c64406, type: 2}
+  showList: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 4231924805348622408
+      type: {class: SkillBulwark, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 15
+        charge: 2
+        castTime: 0.1
+        aniTime: 0.4
+        statusChance: 1
+        damageTypes: 04000000
+        summonPrefab: {fileID: 7192566144641663096, guid: 886a1297575d76943afd24ccbe7bedae, type: 3}
+        summonEntityData: {fileID: 11400000, guid: 360904755a4830d428571b5b0f04a6d1, type: 2}
+        duration: 5
+        minDistance: 0.5
+        maxDistance: 10
+        maxSpreadAngle: 90
+        baseAngleInterval: 15
+        summonSkillData: {fileID: 11400000, guid: dc0c8ccd621ecc048aadd663219a6680, type: 2}

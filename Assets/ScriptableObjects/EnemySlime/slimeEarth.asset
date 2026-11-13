@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f67ce15cbde904aa73b04ad0217423, type: 3}
+  m_Name: slimeEarth
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  baseHP: 80
+  baseATK: 2
+  baseDEF: 50
+  baseSPD: 3
+  _xp: 10
+  baseSkills:
+  - {fileID: 11400000, guid: 833a088b14dc47a4ab4c47d99a36371d, type: 2}
+  _size: 0.7
+  _offset: {x: 0, y: -0.3}
+  idle: []
+  move: []
+  attack1: []
+  attack2: []
+  hurt: []
+  down: []
+  framesPerSec: 4
+  aniDir: 0
+  animator: {fileID: 22100000, guid: 1ce1837b4485a9044a5d2b44f20e5f5e, type: 2}

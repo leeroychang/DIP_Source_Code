@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 64020e9690102784e8df3da119236d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 388598971550986817
+    second: Ice Slime run_0
+  - first:
+      213: 6895534819025603473
+    second: Ice Slime run_1
+  - first:
+      213: -2323886420652418370
+    second: Ice Slime run_2
+  - first:
+      213: 2977545782281071819
+    second: Ice Slime run_3
+  - first:
+      213: 954913106164925424
+    second: Ice Slime run_4
+  - first:
+      213: 70153640571881154
+    second: Ice Slime run_5
+  - first:
+      213: 1641225221176781983
+    second: Ice Slime run_6
+  - first:
+      213: -1831077384805858554
+    second: Ice Slime run_7
+  - first:
+      213: 6572765725682297172
+    second: Ice Slime run_8
+  - first:
+      213: 1634210057169881811
+    second: Ice Slime run_9
+  - first:
+      213: -4510310996070702712
+    second: Ice Slime run_10
+  - first:
+      213: 1854133270032079219
+    second: Ice Slime run_11
+  - first:
+      213: -8013129117588522090
+    second: Ice Slime run_12
+  - first:
+      213: 8393131571489152245
+    second: Ice Slime run_13
+  - first:
+      213: -119204796265742850
+    second: Ice Slime run_14
+  - first:
+      213: -690920982605377075
+    second: Ice Slime run_15
+  - first:
+      213: -5843850916440524392
+    second: Ice Slime run_16
+  - first:
+      213: -7721987249136554337
+    second: Ice Slime run_17
+  - first:
+      213: -8770146302605330872
+    second: Ice Slime run_18
+  - first:
+      213: -18782147830095097
+    second: Ice Slime run_19
+  - first:
+      213: 3991478654684942412
+    second: Ice Slime run_20
+  - first:
+      213: 6385821108229972328
+    second: Ice Slime run_21
+  - first:
+      213: 6373843393739055235
+    second: Ice Slime run_22
+  - first:
+      213: -2210948103205350945
+    second: Ice Slime run_23
+  - first:
+      213: -9044540694134731042
+    second: Ice Slime run_24
+  - first:
+      213: -1786398695863830767
+    second: Ice Slime run_25
+  - first:
+      213: -6338414654893071405
+    second: Ice Slime run_26
+  - first:
+      213: -7970911707899299725
+    second: Ice Slime run_27
+  - first:
+      213: 3311557789862925294
+    second: Ice Slime run_28
+  - first:
+      213: 2786153984061145719
+    second: Ice Slime run_29
+  - first:
+      213: -7849213007008100850
+    second: Ice Slime run_30
+  - first:
+      213: -755040639182221459
+    second: Ice Slime run_31
+  - first:
+      213: -8703665592145654651
+    second: Ice Slime run_32
+  - first:
+      213: 2274173885008142784
+    second: Ice Slime run_33
+  - first:
+      213: 9156597317845792894
+    second: Ice Slime run_34
+  - first:
+      213: -8282195402079235009
+    second: Ice Slime run_35
+  - first:
+      213: 5457152232345959112
+    second: Ice Slime run_36
+  - first:
+      213: -7721381148259696782
+    second: Ice Slime run_37
+  - first:
+      213: 1890791738825197355
+    second: Ice Slime run_38
+  - first:
+      213: 2185217069780257541
+    second: Ice Slime run_39
+  - first:
+      213: -5855934238075500916
+    second: Ice Slime run_40
+  - first:
+      213: -3529881768963095908
+    second: Ice Slime run_41
+  - first:
+      213: 3530118183828836190
+    second: Ice Slime run_42
+  - first:
+      213: 4530627135145558542
+    second: Ice Slime run_43
+  - first:
+      213: 4031366704224415088
+    second: Ice Slime run_44
+  - first:
+      213: -1933193125703965873
+    second: Ice Slime run_45
+  - first:
+      213: -8868504416807731810
+    second: Ice Slime run_46
+  - first:
+      213: 1963519719702376653
+    second: Ice Slime run_47
+  - first:
+      213: -6380237146932603415
+    second: Ice Slime run_48
+  - first:
+      213: 4955084672378786905
+    second: Ice Slime run_49
+  - first:
+      213: 6347275027587640313
+    second: Ice Slime run_50
+  - first:
+      213: 5190092223050564455
+    second: Ice Slime run_51
+  - first:
+      213: 8776864176375850468
+    second: Ice Slime run_52
+  - first:
+      213: 1887023653001672305
+    second: Ice Slime run_53
+  - first:
+      213: -6269312355764263020
+    second: Ice Slime run_54
+  - first:
+      213: -4797991349193278046
+    second: Ice Slime run_55
+  - first:
+      213: -8347206368193843325
+    second: Ice Slime run_56
+  - first:
+      213: -4373927536627575916
+    second: Ice Slime run_57
+  - first:
+      213: -264561879537748246
+    second: Ice Slime run_58
+  - first:
+      213: 194256863219644525
+    second: Ice Slime run_59
+  - first:
+      213: 30451302739368736
+    second: Ice Slime run_60
+  - first:
+      213: -2161996276063935833
+    second: Ice Slime run_61
+  - first:
+      213: -2788913346230674883
+    second: Ice Slime run_62
+  - first:
+      213: -45456181528227324
+    second: Ice Slime run_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Slime run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f06ba4b4946500800000000000000
+      internalID: 388598971550986817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bcb50426cd1bf50800000000000000
+      internalID: 6895534819025603473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba98a6ec95efbfd0800000000000000
+      internalID: -2323886420652418370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc635ffc1e525920800000000000000
+      internalID: 2977545782281071819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f343542968804d00800000000000000
+      internalID: 954913106164925424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6ccf94d5c39f000800000000000000
+      internalID: 70153640571881154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c67a0a4adc6c610800000000000000
+      internalID: 1641225221176781983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603456ae1d4b696e0800000000000000
+      internalID: -1831077384805858554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e72f7a97273b50800000000000000
+      internalID: 6572765725682297172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4bf97361eda610800000000000000
+      internalID: 1634210057169881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881eaa4bb082861c0800000000000000
+      internalID: -4510310996070702712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379de7ea2643bb910800000000000000
+      internalID: 1854133270032079219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bfbced585abc090800000000000000
+      internalID: -8013129117588522090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc1abf02b46a7470800000000000000
+      internalID: 8393131571489152245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbe0f8edf785ef0800000000000000
+      internalID: -119204796265742850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc151f7e60b5966f0800000000000000
+      internalID: -690920982605377075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899b835bd8876eea0800000000000000
+      internalID: -5843850916440524392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eae1f728df5d490800000000000000
+      internalID: -7721987249136554337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f00d676e2a4680800000000000000
+      internalID: -8770146302605330872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e77e6cb54dbff0800000000000000
+      internalID: -18782147830095097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40dc0d40b4946730800000000000000
+      internalID: 3991478654684942412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8612d33e67efe9850800000000000000
+      internalID: 6385821108229972328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38069c9ebc0747850800000000000000
+      internalID: 6373843393739055235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11f9b0a622151e0800000000000000
+      internalID: -2210948103205350945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec881a8265b7280800000000000000
+      internalID: -9044540694134731042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b0d1d9df6537e0800000000000000
+      internalID: -1786398695863830767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e7f7247d6908a0800000000000000
+      internalID: -6338414654893071405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f8aa8802a16190800000000000000
+      internalID: -7970911707899299725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee315f5b34405fd20800000000000000
+      internalID: 3311557789862925294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772018d69486aa620800000000000000
+      internalID: 2786153984061145719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e08e66b5ef11390800000000000000
+      internalID: -7849213007008100850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime run_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f4f8ef98e8585f0800000000000000
+      internalID: -755040639182221459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3023e8003fce3094482523cd9b879b7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice Slime run_0: 388598971550986817
+      Ice Slime run_1: 6895534819025603473
+      Ice Slime run_10: -4510310996070702712
+      Ice Slime run_11: 1854133270032079219
+      Ice Slime run_12: -8013129117588522090
+      Ice Slime run_13: 8393131571489152245
+      Ice Slime run_14: -119204796265742850
+      Ice Slime run_15: -690920982605377075
+      Ice Slime run_16: -5843850916440524392
+      Ice Slime run_17: -7721987249136554337
+      Ice Slime run_18: -8770146302605330872
+      Ice Slime run_19: -18782147830095097
+      Ice Slime run_2: -2323886420652418370
+      Ice Slime run_20: 3991478654684942412
+      Ice Slime run_21: 6385821108229972328
+      Ice Slime run_22: 6373843393739055235
+      Ice Slime run_23: -2210948103205350945
+      Ice Slime run_24: -9044540694134731042
+      Ice Slime run_25: -1786398695863830767
+      Ice Slime run_26: -6338414654893071405
+      Ice Slime run_27: -7970911707899299725
+      Ice Slime run_28: 3311557789862925294
+      Ice Slime run_29: 2786153984061145719
+      Ice Slime run_3: 2977545782281071819
+      Ice Slime run_30: -7849213007008100850
+      Ice Slime run_31: -755040639182221459
+      Ice Slime run_4: 954913106164925424
+      Ice Slime run_5: 70153640571881154
+      Ice Slime run_6: 1641225221176781983
+      Ice Slime run_7: -1831077384805858554
+      Ice Slime run_8: 6572765725682297172
+      Ice Slime run_9: 1634210057169881811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

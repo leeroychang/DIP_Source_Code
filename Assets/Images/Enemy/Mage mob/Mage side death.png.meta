@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: bb58d1aac6954b342900bf8ee8ce4dfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -488369876597537451
+    second: Mage side death_0
+  - first:
+      213: -6931904993279151336
+    second: Mage side death_1
+  - first:
+      213: 5125795676243645972
+    second: Mage side death_2
+  - first:
+      213: -7919863774096110937
+    second: Mage side death_3
+  - first:
+      213: -5446779062536557446
+    second: Mage side death_4
+  - first:
+      213: -7954384631585417430
+    second: Mage side death_5
+  - first:
+      213: 7074812058474104112
+    second: Mage side death_6
+  - first:
+      213: -7091217014392317005
+    second: Mage side death_7
+  - first:
+      213: 7408415011584236746
+    second: Mage side death_8
+  - first:
+      213: 2768989299558907815
+    second: Mage side death_9
+  - first:
+      213: 1883552535968825185
+    second: Mage side death_10
+  - first:
+      213: 6561849462503584551
+    second: Mage side death_11
+  - first:
+      213: -8316876043284475600
+    second: Mage side death_12
+  - first:
+      213: -7269600548297617051
+    second: Mage side death_13
+  - first:
+      213: -7970866184602199833
+    second: Mage side death_14
+  - first:
+      213: -59185503524991817
+    second: Mage side death_15
+  - first:
+      213: -6705428665085853733
+    second: Mage side death_16
+  - first:
+      213: -3441767716625826359
+    second: Mage side death_17
+  - first:
+      213: -6460447599781907503
+    second: Mage side death_18
+  - first:
+      213: -7941407280670796949
+    second: Mage side death_19
+  - first:
+      213: 3936657099480185005
+    second: Mage side death_20
+  - first:
+      213: 5617278759406828306
+    second: Mage side death_21
+  - first:
+      213: -306318600971953108
+    second: Mage side death_22
+  - first:
+      213: 1858366137840640740
+    second: Mage side death_23
+  - first:
+      213: -5062300711510968462
+    second: Mage side death_24
+  - first:
+      213: 3868052206811159938
+    second: Mage side death_25
+  - first:
+      213: 3913186144646857630
+    second: Mage side death_26
+  - first:
+      213: 1068985725404894253
+    second: Mage side death_27
+  - first:
+      213: -6839927283558743504
+    second: Mage side death_28
+  - first:
+      213: 8764484295284263596
+    second: Mage side death_29
+  - first:
+      213: -2948167873591306422
+    second: Mage side death_30
+  - first:
+      213: -4388989763274953693
+    second: Mage side death_31
+  - first:
+      213: 3403432873807071939
+    second: Mage side death_32
+  - first:
+      213: 4685950993462244870
+    second: Mage side death_33
+  - first:
+      213: -55952273493041918
+    second: Mage side death_34
+  - first:
+      213: -1533928494572553187
+    second: Mage side death_35
+  - first:
+      213: -2711885596650146137
+    second: Mage side death_36
+  - first:
+      213: 5272280157822409739
+    second: Mage side death_37
+  - first:
+      213: -1749371456884856821
+    second: Mage side death_38
+  - first:
+      213: 5683783833436762557
+    second: Mage side death_39
+  - first:
+      213: -7640429000717483391
+    second: Mage side death_40
+  - first:
+      213: -3449167190467605128
+    second: Mage side death_41
+  - first:
+      213: -2632429525542935354
+    second: Mage side death_42
+  - first:
+      213: -4350961165929236996
+    second: Mage side death_43
+  - first:
+      213: -4101996754276090033
+    second: Mage side death_44
+  - first:
+      213: 8093554930949065865
+    second: Mage side death_45
+  - first:
+      213: -6044980032784286261
+    second: Mage side death_46
+  - first:
+      213: -1532930702918791093
+    second: Mage side death_47
+  - first:
+      213: -3903518560083566724
+    second: Mage side death_48
+  - first:
+      213: -6856289631961798345
+    second: Mage side death_49
+  - first:
+      213: 6646801342569763730
+    second: Mage side death_50
+  - first:
+      213: -820914226152571463
+    second: Mage side death_51
+  - first:
+      213: 501891732335491363
+    second: Mage side death_52
+  - first:
+      213: 6640355264636823275
+    second: Mage side death_53
+  - first:
+      213: -200341555454476746
+    second: Mage side death_54
+  - first:
+      213: -5854851847521884244
+    second: Mage side death_55
+  - first:
+      213: -8208047042502313680
+    second: Mage side death_56
+  - first:
+      213: -1785474639338596808
+    second: Mage side death_57
+  - first:
+      213: -6507762271196037674
+    second: Mage side death_58
+  - first:
+      213: 6509827734786222468
+    second: Mage side death_59
+  - first:
+      213: 5679710198717573346
+    second: Mage side death_60
+  - first:
+      213: -3666542481173677797
+    second: Mage side death_61
+  - first:
+      213: 2484286019926488882
+    second: Mage side death_62
+  - first:
+      213: 752433808119891794
+    second: Mage side death_63
+  - first:
+      213: 3771460461127707431
+    second: Mage side death_64
+  - first:
+      213: -7818132409255171321
+    second: Mage side death_65
+  - first:
+      213: 5486269708675825321
+    second: Mage side death_66
+  - first:
+      213: 9171734214992191795
+    second: Mage side death_67
+  - first:
+      213: -5759303472547112221
+    second: Mage side death_68
+  - first:
+      213: -5806865843024634911
+    second: Mage side death_69
+  - first:
+      213: -7726161455351166554
+    second: Mage side death_70
+  - first:
+      213: -5436916591123493542
+    second: Mage side death_71
+  - first:
+      213: -9218532557590301209
+    second: Mage side death_72
+  - first:
+      213: 6251780634627607187
+    second: Mage side death_73
+  - first:
+      213: 6976482449331065709
+    second: Mage side death_74
+  - first:
+      213: 5807561906981306808
+    second: Mage side death_75
+  - first:
+      213: 421702227208296596
+    second: Mage side death_76
+  - first:
+      213: -7564574925552175605
+    second: Mage side death_77
+  - first:
+      213: -8830091376780489639
+    second: Mage side death_78
+  - first:
+      213: -3462823254443255558
+    second: Mage side death_79
+  - first:
+      213: 3768079827112722083
+    second: Mage side death_80
+  - first:
+      213: 3634193004076902461
+    second: Mage side death_81
+  - first:
+      213: -20488619603996333
+    second: Mage side death_82
+  - first:
+      213: 7433201810034413539
+    second: Mage side death_83
+  - first:
+      213: 1355578313117800121
+    second: Mage side death_84
+  - first:
+      213: 2387827630896282411
+    second: Mage side death_85
+  - first:
+      213: 9197235400765686737
+    second: Mage side death_86
+  - first:
+      213: -7215779786110117029
+    second: Mage side death_87
+  - first:
+      213: -4372068397079427732
+    second: Mage side death_88
+  - first:
+      213: -7105275502328425810
+    second: Mage side death_89
+  - first:
+      213: 5928131191623023554
+    second: Mage side death_90
+  - first:
+      213: -8923327679880144676
+    second: Mage side death_91
+  - first:
+      213: 3276342969832213048
+    second: Mage side death_92
+  - first:
+      213: -162668793534415156
+    second: Mage side death_93
+  - first:
+      213: 72936091395719205
+    second: Mage side death_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage side death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555076a4f26f839f0800000000000000
+      internalID: -488369876597537451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f6daa22deccf90800000000000000
+      internalID: -6931904993279151336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4165cb9820c722740800000000000000
+      internalID: 5125795676243645972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4483dbddf61290800000000000000
+      internalID: -7919863774096110937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c29770d472964b0800000000000000
+      internalID: -5446779062536557446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27568b52595c9190800000000000000
+      internalID: -7954384631585417430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035cffd4518ce2260800000000000000
+      internalID: 7074812058474104112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb90ff32bfe69d90800000000000000
+      internalID: -7091217014392317005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc562a933affc660800000000000000
+      internalID: 7408415011584236746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage side death_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff013e81d6d6620800000000000000
+      internalID: 2768989299558907815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0d8da1c13775cd4eafb527f0b8a9ad5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage side death_0: -488369876597537451
+      Mage side death_1: -6931904993279151336
+      Mage side death_2: 5125795676243645972
+      Mage side death_3: -7919863774096110937
+      Mage side death_4: -5446779062536557446
+      Mage side death_5: -7954384631585417430
+      Mage side death_6: 7074812058474104112
+      Mage side death_7: -7091217014392317005
+      Mage side death_8: 7408415011584236746
+      Mage side death_9: 2768989299558907815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

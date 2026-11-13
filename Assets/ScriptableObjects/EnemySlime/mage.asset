@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f67ce15cbde904aa73b04ad0217423, type: 3}
+  m_Name: mage
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  baseHP: 70
+  baseATK: 0
+  baseDEF: 30
+  baseSPD: 5
+  _xp: 10
+  baseSkills:
+  - {fileID: 11400000, guid: ec341213e4b5b4111b86a696106bb92f, type: 2}
+  _size: 0.7
+  _offset: {x: 0, y: 0}
+  idle: []
+  move: []
+  attack1: []
+  attack2: []
+  hurt: []
+  down: []
+  framesPerSec: 4
+  aniDir: 0
+  animator: {fileID: 22100000, guid: 4f286b85dfe79694a9cf731bd7703b6b, type: 2}

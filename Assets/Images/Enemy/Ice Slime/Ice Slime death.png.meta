@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: be1f7f25697299249aa30fe10cf0533c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2153948391478270682
+    second: Ice Slime death_0
+  - first:
+      213: -3917961599212032767
+    second: Ice Slime death_1
+  - first:
+      213: 74117265157779045
+    second: Ice Slime death_2
+  - first:
+      213: -8966004695424488652
+    second: Ice Slime death_3
+  - first:
+      213: -8725196130763080774
+    second: Ice Slime death_4
+  - first:
+      213: 6068193136005345495
+    second: Ice Slime death_5
+  - first:
+      213: 8272964965508965267
+    second: Ice Slime death_6
+  - first:
+      213: -5029060337825771078
+    second: Ice Slime death_7
+  - first:
+      213: -7637949635993671965
+    second: Ice Slime death_8
+  - first:
+      213: -2039175768130168638
+    second: Ice Slime death_9
+  - first:
+      213: 4323321125733050769
+    second: Ice Slime death_10
+  - first:
+      213: 3903312795094855825
+    second: Ice Slime death_11
+  - first:
+      213: -598567347194452259
+    second: Ice Slime death_12
+  - first:
+      213: -1686814949866696972
+    second: Ice Slime death_13
+  - first:
+      213: 5651088636624720352
+    second: Ice Slime death_14
+  - first:
+      213: -6133568593946926471
+    second: Ice Slime death_15
+  - first:
+      213: -5759760140494725373
+    second: Ice Slime death_16
+  - first:
+      213: -4525065074189674087
+    second: Ice Slime death_17
+  - first:
+      213: 144026392686053618
+    second: Ice Slime death_18
+  - first:
+      213: -4578161067510364250
+    second: Ice Slime death_19
+  - first:
+      213: -8814506552231375612
+    second: Ice Slime death_20
+  - first:
+      213: 116333552086285632
+    second: Ice Slime death_21
+  - first:
+      213: -8028642958166934506
+    second: Ice Slime death_22
+  - first:
+      213: -994581203479705158
+    second: Ice Slime death_23
+  - first:
+      213: 5770208217519244452
+    second: Ice Slime death_24
+  - first:
+      213: 8071690065997688383
+    second: Ice Slime death_25
+  - first:
+      213: 9207447846335918063
+    second: Ice Slime death_26
+  - first:
+      213: 7800530930827388964
+    second: Ice Slime death_27
+  - first:
+      213: -1324917122929882646
+    second: Ice Slime death_28
+  - first:
+      213: -1397698302912140891
+    second: Ice Slime death_29
+  - first:
+      213: 1003211210073829149
+    second: Ice Slime death_30
+  - first:
+      213: 9054319675757233970
+    second: Ice Slime death_31
+  - first:
+      213: 2742366406173273997
+    second: Ice Slime death_32
+  - first:
+      213: 7312846926022270085
+    second: Ice Slime death_33
+  - first:
+      213: 5778257226360650565
+    second: Ice Slime death_34
+  - first:
+      213: 2442622076310480201
+    second: Ice Slime death_35
+  - first:
+      213: -4168760937867758775
+    second: Ice Slime death_36
+  - first:
+      213: 285682126103398050
+    second: Ice Slime death_37
+  - first:
+      213: 2663887665869494971
+    second: Ice Slime death_38
+  - first:
+      213: 5665889291779680218
+    second: Ice Slime death_39
+  - first:
+      213: 5904218820227864250
+    second: Ice Slime death_40
+  - first:
+      213: -2864004559835926932
+    second: Ice Slime death_41
+  - first:
+      213: -5010145986511964416
+    second: Ice Slime death_42
+  - first:
+      213: -7331173470434806963
+    second: Ice Slime death_43
+  - first:
+      213: -3905734204822664242
+    second: Ice Slime death_44
+  - first:
+      213: -3201354968722848154
+    second: Ice Slime death_45
+  - first:
+      213: -8953037914161350203
+    second: Ice Slime death_46
+  - first:
+      213: 7914095205057395785
+    second: Ice Slime death_47
+  - first:
+      213: -653859558482600832
+    second: Ice Slime death_48
+  - first:
+      213: -4796573954623712864
+    second: Ice Slime death_49
+  - first:
+      213: 1152795420632516033
+    second: Ice Slime death_50
+  - first:
+      213: -4829936556236367437
+    second: Ice Slime death_51
+  - first:
+      213: -6463383722669844212
+    second: Ice Slime death_52
+  - first:
+      213: -5817209602366684567
+    second: Ice Slime death_53
+  - first:
+      213: -8500990536987670033
+    second: Ice Slime death_54
+  - first:
+      213: 3080825710143710361
+    second: Ice Slime death_55
+  - first:
+      213: 1883914478705331326
+    second: Ice Slime death_56
+  - first:
+      213: 5005809268010281812
+    second: Ice Slime death_57
+  - first:
+      213: -51847006570211904
+    second: Ice Slime death_58
+  - first:
+      213: -7352954294999722560
+    second: Ice Slime death_59
+  - first:
+      213: -5937344616664082726
+    second: Ice Slime death_60
+  - first:
+      213: -694468255236085458
+    second: Ice Slime death_61
+  - first:
+      213: 2533805947009075041
+    second: Ice Slime death_62
+  - first:
+      213: 4312706698693895947
+    second: Ice Slime death_63
+  - first:
+      213: -8705129803703018823
+    second: Ice Slime death_64
+  - first:
+      213: 86170025690500147
+    second: Ice Slime death_65
+  - first:
+      213: 1330319763414640116
+    second: Ice Slime death_66
+  - first:
+      213: -1571961588789897106
+    second: Ice Slime death_67
+  - first:
+      213: 5728744123745854090
+    second: Ice Slime death_68
+  - first:
+      213: -196914426065544318
+    second: Ice Slime death_69
+  - first:
+      213: 5481302837901530057
+    second: Ice Slime death_70
+  - first:
+      213: 837192260089169329
+    second: Ice Slime death_71
+  - first:
+      213: -4054738538723732599
+    second: Ice Slime death_72
+  - first:
+      213: 8137223591245411541
+    second: Ice Slime death_73
+  - first:
+      213: -6409474270429454189
+    second: Ice Slime death_74
+  - first:
+      213: 4572234000010309445
+    second: Ice Slime death_75
+  - first:
+      213: 8204719175471458337
+    second: Ice Slime death_76
+  - first:
+      213: 3086911105388460949
+    second: Ice Slime death_77
+  - first:
+      213: -6814283788584845117
+    second: Ice Slime death_78
+  - first:
+      213: 8515040594197706623
+    second: Ice Slime death_79
+  - first:
+      213: -1349995511273949548
+    second: Ice Slime death_80
+  - first:
+      213: -5970769663130910624
+    second: Ice Slime death_81
+  - first:
+      213: 1096168814576675598
+    second: Ice Slime death_82
+  - first:
+      213: -8818263326688787937
+    second: Ice Slime death_83
+  - first:
+      213: -6628262531294529240
+    second: Ice Slime death_84
+  - first:
+      213: 1993077640007534269
+    second: Ice Slime death_85
+  - first:
+      213: 2364120695977277841
+    second: Ice Slime death_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Slime death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e96d9953ab12e0800000000000000
+      internalID: -2153948391478270682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d685b0faa90a9c0800000000000000
+      internalID: -3917961599212032767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee37d8241570100800000000000000
+      internalID: 74117265157779045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2db2cb3a529380800000000000000
+      internalID: -8966004695424488652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbf04ed850e9e680800000000000000
+      internalID: -8725196130763080774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ff0ca18d863450800000000000000
+      internalID: 6068193136005345495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e968ddc97fc270800000000000000
+      internalID: 8272964965508965267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab193e19440353ab0800000000000000
+      internalID: -5029060337825771078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6e54e064d800690800000000000000
+      internalID: -7637949635993671965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c85402617463b3e0800000000000000
+      internalID: -2039175768130168638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a24d68a58ffb30800000000000000
+      internalID: 4323321125733050769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190bdd67e4a5b2630800000000000000
+      internalID: 3903312795094855825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a3584b2671b7f0800000000000000
+      internalID: -598567347194452259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe806f7dba3798e0800000000000000
+      internalID: -1686814949866696972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1534c9c23bc6e40800000000000000
+      internalID: 5651088636624720352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9722d406cdf21eaa0800000000000000
+      internalID: -6133568593946926471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f9b523ba83110b0800000000000000
+      internalID: -5759760140494725373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d5633a4db331c0800000000000000
+      internalID: -4525065074189674087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84556bd3faff100800000000000000
+      internalID: 144026392686053618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78586e3ca1770c0800000000000000
+      internalID: -4578161067510364250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d45e3fdf49ca580800000000000000
+      internalID: -8814506552231375612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dff8fcfbc4d9100800000000000000
+      internalID: 116333552086285632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb40264c7849090800000000000000
+      internalID: -8028642958166934506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9cf4a3aa98232f0800000000000000
+      internalID: -994581203479705158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4464d4dc5e31050800000000000000
+      internalID: 5770208217519244452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e67d07957640070800000000000000
+      internalID: 8071690065997688383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa9c8780d67cf70800000000000000
+      internalID: 9207447846335918063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e9677d8d014c60800000000000000
+      internalID: 7800530930827388964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98eea75e2fc9de0800000000000000
+      internalID: -1324917122929882646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a961cf7cc06a9ce0800000000000000
+      internalID: -1397698302912140891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fe323c74f1ced00800000000000000
+      internalID: 1003211210073829149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370754f5c767ad70800000000000000
+      internalID: 9054319675757233970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2ceb77b7de0620800000000000000
+      internalID: 2742366406173273997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5d5ab8837c7560800000000000000
+      internalID: 7312846926022270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b7f06355e703050800000000000000
+      internalID: 5778257226360650565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945630b36dfe5e120800000000000000
+      internalID: 2442622076310480201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9433ed893069526c0800000000000000
+      internalID: -4168760937867758775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6421d4162f6f300800000000000000
+      internalID: 285682126103398050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba12bdd7b708f420800000000000000
+      internalID: 2663887665869494971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime death_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a73daa4841ae40800000000000000
+      internalID: 5665889291779680218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c1950164a21d9c44a90ae44b1ae497b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice Slime death_0: -2153948391478270682
+      Ice Slime death_1: -3917961599212032767
+      Ice Slime death_10: 4323321125733050769
+      Ice Slime death_11: 3903312795094855825
+      Ice Slime death_12: -598567347194452259
+      Ice Slime death_13: -1686814949866696972
+      Ice Slime death_14: 5651088636624720352
+      Ice Slime death_15: -6133568593946926471
+      Ice Slime death_16: -5759760140494725373
+      Ice Slime death_17: -4525065074189674087
+      Ice Slime death_18: 144026392686053618
+      Ice Slime death_19: -4578161067510364250
+      Ice Slime death_2: 74117265157779045
+      Ice Slime death_20: -8814506552231375612
+      Ice Slime death_21: 116333552086285632
+      Ice Slime death_22: -8028642958166934506
+      Ice Slime death_23: -994581203479705158
+      Ice Slime death_24: 5770208217519244452
+      Ice Slime death_25: 8071690065997688383
+      Ice Slime death_26: 9207447846335918063
+      Ice Slime death_27: 7800530930827388964
+      Ice Slime death_28: -1324917122929882646
+      Ice Slime death_29: -1397698302912140891
+      Ice Slime death_3: -8966004695424488652
+      Ice Slime death_30: 1003211210073829149
+      Ice Slime death_31: 9054319675757233970
+      Ice Slime death_32: 2742366406173273997
+      Ice Slime death_33: 7312846926022270085
+      Ice Slime death_34: 5778257226360650565
+      Ice Slime death_35: 2442622076310480201
+      Ice Slime death_36: -4168760937867758775
+      Ice Slime death_37: 285682126103398050
+      Ice Slime death_38: 2663887665869494971
+      Ice Slime death_39: 5665889291779680218
+      Ice Slime death_4: -8725196130763080774
+      Ice Slime death_5: 6068193136005345495
+      Ice Slime death_6: 8272964965508965267
+      Ice Slime death_7: -5029060337825771078
+      Ice Slime death_8: -7637949635993671965
+      Ice Slime death_9: -2039175768130168638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

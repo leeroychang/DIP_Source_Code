@@ -1,0 +1,4735 @@
+fileFormatVersion: 2
+guid: 7a28e74d5043bd846a4736051af49ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5083719942567847516
+    second: 674_0
+  - first:
+      213: -8905714040147145048
+    second: 674_1
+  - first:
+      213: 3721591777475789665
+    second: 674_2
+  - first:
+      213: 4080104213938000655
+    second: 674_3
+  - first:
+      213: 3463550686939435065
+    second: 674_4
+  - first:
+      213: 2772693584647453381
+    second: 674_5
+  - first:
+      213: 5108163523950604593
+    second: 674_6
+  - first:
+      213: 3697031416151503669
+    second: 674_7
+  - first:
+      213: -461978437480855701
+    second: 674_8
+  - first:
+      213: 922164723426995726
+    second: 674_9
+  - first:
+      213: -1893453703892075853
+    second: 674_10
+  - first:
+      213: 8933441859722551481
+    second: 674_11
+  - first:
+      213: 4832356500179896484
+    second: 674_12
+  - first:
+      213: 1662673183520342947
+    second: 674_13
+  - first:
+      213: 4816059538627141682
+    second: 674_14
+  - first:
+      213: -8041682404403831433
+    second: 674_15
+  - first:
+      213: -1784901099258186529
+    second: 674_16
+  - first:
+      213: 6879846668367477277
+    second: 674_17
+  - first:
+      213: 2202869006669563757
+    second: 674_18
+  - first:
+      213: 5384713376810803171
+    second: 674_19
+  - first:
+      213: -3564933199079379208
+    second: 674_20
+  - first:
+      213: -2821981301565414502
+    second: 674_21
+  - first:
+      213: 478660667802967387
+    second: 674_22
+  - first:
+      213: -6268261957542180701
+    second: 674_23
+  - first:
+      213: 842739214958836803
+    second: 674_24
+  - first:
+      213: 2588077357047870782
+    second: 674_25
+  - first:
+      213: 5233438283837152790
+    second: 674_26
+  - first:
+      213: -6994400239712776071
+    second: 674_27
+  - first:
+      213: 2621202802803834177
+    second: 674_28
+  - first:
+      213: 8202060469401634717
+    second: 674_29
+  - first:
+      213: 1216509917954581992
+    second: 674_30
+  - first:
+      213: 8090851322936357337
+    second: 674_31
+  - first:
+      213: -361562145503022773
+    second: 674_32
+  - first:
+      213: 232426486500492138
+    second: 674_33
+  - first:
+      213: -6968707137777241443
+    second: 674_34
+  - first:
+      213: -1067982673640866393
+    second: 674_35
+  - first:
+      213: -171621471658174494
+    second: 674_36
+  - first:
+      213: -742103165564227604
+    second: 674_37
+  - first:
+      213: 8937077583827312713
+    second: 674_38
+  - first:
+      213: 4321659481383197868
+    second: 674_39
+  - first:
+      213: -2317554096987935088
+    second: 674_40
+  - first:
+      213: 5657244806198001278
+    second: 674_41
+  - first:
+      213: 5126455498518406707
+    second: 674_42
+  - first:
+      213: 8415035328278019780
+    second: 674_43
+  - first:
+      213: -4979020319640321706
+    second: 674_44
+  - first:
+      213: -9141238966849358549
+    second: 674_45
+  - first:
+      213: -4104408473874638553
+    second: 674_46
+  - first:
+      213: -2918930147135319901
+    second: 674_47
+  - first:
+      213: 7208210182899896212
+    second: 674_48
+  - first:
+      213: -3413730335436553708
+    second: 674_49
+  - first:
+      213: -4438097178627593881
+    second: 674_50
+  - first:
+      213: 7568817989296878859
+    second: 674_51
+  - first:
+      213: 379230295425219893
+    second: 674_52
+  - first:
+      213: -397064845798839686
+    second: 674_53
+  - first:
+      213: -2600675495082977615
+    second: 674_54
+  - first:
+      213: 4003168552230594424
+    second: 674_55
+  - first:
+      213: 5950320580218252047
+    second: 674_56
+  - first:
+      213: -6310802366621380318
+    second: 674_57
+  - first:
+      213: 2839711245523882731
+    second: 674_58
+  - first:
+      213: -5721333949182904422
+    second: 674_59
+  - first:
+      213: -9093508959333152628
+    second: 674_60
+  - first:
+      213: 4822711044169938881
+    second: 674_61
+  - first:
+      213: -1287093685096034711
+    second: 674_62
+  - first:
+      213: -6866160663011097647
+    second: 674_63
+  - first:
+      213: 5024983662810944621
+    second: 674_64
+  - first:
+      213: -474077850856484681
+    second: 674_65
+  - first:
+      213: 1626068743984630597
+    second: 674_66
+  - first:
+      213: 1342390168464142178
+    second: 674_67
+  - first:
+      213: -2836291788961024897
+    second: 674_68
+  - first:
+      213: 5531751355128208679
+    second: 674_69
+  - first:
+      213: -7765489256639020189
+    second: 674_70
+  - first:
+      213: -5384469847909513835
+    second: 674_71
+  - first:
+      213: 6886859210786694656
+    second: 674_72
+  - first:
+      213: -9209750636432900552
+    second: 674_73
+  - first:
+      213: 506433681679906130
+    second: 674_74
+  - first:
+      213: -5283680668865511188
+    second: 674_75
+  - first:
+      213: -181398792056011024
+    second: 674_76
+  - first:
+      213: -1743220368943322216
+    second: 674_77
+  - first:
+      213: 6429553197314430825
+    second: 674_78
+  - first:
+      213: -9043558192305914435
+    second: 674_79
+  - first:
+      213: -5878746745363038587
+    second: 674_80
+  - first:
+      213: -5046035780036974232
+    second: 674_81
+  - first:
+      213: 5309871645082091576
+    second: 674_82
+  - first:
+      213: -5713094431145428062
+    second: 674_83
+  - first:
+      213: 6448084696835983399
+    second: 674_84
+  - first:
+      213: 705918812406783016
+    second: 674_85
+  - first:
+      213: -7567031420909247936
+    second: 674_86
+  - first:
+      213: -6162940018055173488
+    second: 674_87
+  - first:
+      213: 6070871769833272702
+    second: 674_88
+  - first:
+      213: 3043614433526398488
+    second: 674_89
+  - first:
+      213: -4691167288301827183
+    second: 674_90
+  - first:
+      213: 6175618076816618846
+    second: 674_91
+  - first:
+      213: 7546587688865716663
+    second: 674_92
+  - first:
+      213: 7348873174718776899
+    second: 674_93
+  - first:
+      213: 74695440833201293
+    second: 674_94
+  - first:
+      213: -2067542518990494953
+    second: 674_95
+  - first:
+      213: 2346564470786693958
+    second: 674_96
+  - first:
+      213: -3933594224670342728
+    second: 674_97
+  - first:
+      213: 1003048653423428507
+    second: 674_98
+  - first:
+      213: 7750676519092580845
+    second: 674_99
+  - first:
+      213: 5929715917406128369
+    second: 674_100
+  - first:
+      213: -7156154750374788943
+    second: 674_101
+  - first:
+      213: -4295408429828919007
+    second: 674_102
+  - first:
+      213: 6079909416815296141
+    second: 674_103
+  - first:
+      213: -6805074208803892207
+    second: 674_104
+  - first:
+      213: -6064627907822973683
+    second: 674_105
+  - first:
+      213: -5940998953871149815
+    second: 674_106
+  - first:
+      213: -4136389075710617719
+    second: 674_107
+  - first:
+      213: -1931185022922867338
+    second: 674_108
+  - first:
+      213: -6756796790723700440
+    second: 674_109
+  - first:
+      213: 5185508267601154505
+    second: 674_110
+  - first:
+      213: -6174056199521663815
+    second: 674_111
+  - first:
+      213: -8678527840151757895
+    second: 674_112
+  - first:
+      213: -2357666522318179787
+    second: 674_113
+  - first:
+      213: 6796544364105416907
+    second: 674_114
+  - first:
+      213: 3141053771469208970
+    second: 674_115
+  - first:
+      213: -2571144045880089359
+    second: 674_116
+  - first:
+      213: -2069490900146510743
+    second: 674_117
+  - first:
+      213: -7840988483072277812
+    second: 674_118
+  - first:
+      213: -9212822925572570231
+    second: 674_119
+  - first:
+      213: -1034005823664052936
+    second: 674_120
+  - first:
+      213: -7153549558310634822
+    second: 674_121
+  - first:
+      213: -4192610806020123040
+    second: 674_122
+  - first:
+      213: 628832806657598780
+    second: 674_123
+  - first:
+      213: -7108785750861959353
+    second: 674_124
+  - first:
+      213: -4954565407495289246
+    second: 674_125
+  - first:
+      213: -2883134152716180717
+    second: 674_126
+  - first:
+      213: 4027388439445470333
+    second: 674_127
+  - first:
+      213: 2392456956698864842
+    second: 674_128
+  - first:
+      213: 3065741488527558774
+    second: 674_129
+  - first:
+      213: 4732406002008120112
+    second: 674_130
+  - first:
+      213: -4904270328017535502
+    second: 674_131
+  - first:
+      213: 5687482289627550925
+    second: 674_132
+  - first:
+      213: -5974026203785634978
+    second: 674_133
+  - first:
+      213: 4595844102711720697
+    second: 674_134
+  - first:
+      213: 5466843565041222645
+    second: 674_135
+  - first:
+      213: -6639992142200046402
+    second: 674_136
+  - first:
+      213: 7469794859149619601
+    second: 674_137
+  - first:
+      213: 7113936190343811328
+    second: 674_138
+  - first:
+      213: 1297351896091529476
+    second: 674_139
+  - first:
+      213: -6358991475943523274
+    second: 674_140
+  - first:
+      213: -3950101856086113101
+    second: 674_141
+  - first:
+      213: -762034403105840187
+    second: 674_142
+  - first:
+      213: 8790767351704400075
+    second: 674_143
+  - first:
+      213: -5994646539450572867
+    second: 674_144
+  - first:
+      213: 5815867017235331390
+    second: 674_145
+  - first:
+      213: 4881030069731358872
+    second: 674_146
+  - first:
+      213: 4719825810056191474
+    second: 674_147
+  - first:
+      213: 2042068626844217857
+    second: 674_148
+  - first:
+      213: -1825335573297886862
+    second: 674_149
+  - first:
+      213: -3823455500556942339
+    second: 674_150
+  - first:
+      213: 7201330713019646541
+    second: 674_151
+  - first:
+      213: 5462624296603905356
+    second: 674_152
+  - first:
+      213: -2249428881464731559
+    second: 674_153
+  - first:
+      213: 6302496137855315960
+    second: 674_154
+  - first:
+      213: 617839300569237117
+    second: 674_155
+  - first:
+      213: 5691574629514530666
+    second: 674_156
+  - first:
+      213: -2779740742019191668
+    second: 674_157
+  - first:
+      213: -8322607700068919872
+    second: 674_158
+  - first:
+      213: -2016003543371921011
+    second: 674_159
+  - first:
+      213: -3244336505078680079
+    second: 674_160
+  - first:
+      213: 8668268092526022215
+    second: 674_161
+  - first:
+      213: -7236261845220431016
+    second: 674_162
+  - first:
+      213: -3360653078052429582
+    second: 674_163
+  - first:
+      213: -6240538630407601955
+    second: 674_164
+  - first:
+      213: 6364300676593178676
+    second: 674_165
+  - first:
+      213: 7323185678010671285
+    second: 674_166
+  - first:
+      213: 2110179516379437267
+    second: 674_167
+  - first:
+      213: -3231963261296581886
+    second: 674_168
+  - first:
+      213: -4973037722153612871
+    second: 674_169
+  - first:
+      213: -1243586051171299486
+    second: 674_170
+  - first:
+      213: -3774991399045414481
+    second: 674_171
+  - first:
+      213: -4507243302056606812
+    second: 674_172
+  - first:
+      213: -6120490375093664562
+    second: 674_173
+  - first:
+      213: 1493585829346723427
+    second: 674_174
+  - first:
+      213: -6828164293483447390
+    second: 674_175
+  - first:
+      213: -8871356943355006757
+    second: 674_176
+  - first:
+      213: -6020284015875761978
+    second: 674_177
+  - first:
+      213: -7444287047371128280
+    second: 674_178
+  - first:
+      213: -3878783634518098183
+    second: 674_179
+  - first:
+      213: 5244997721792563230
+    second: 674_180
+  - first:
+      213: 7207408117339017349
+    second: 674_181
+  - first:
+      213: -6814209397353438016
+    second: 674_182
+  - first:
+      213: 6494819095657163110
+    second: 674_183
+  - first:
+      213: 8424853126582693023
+    second: 674_184
+  - first:
+      213: 1573875398471810818
+    second: 674_185
+  - first:
+      213: -2755389668637901360
+    second: 674_186
+  - first:
+      213: 2477375679184705739
+    second: 674_187
+  - first:
+      213: -3951802061322030114
+    second: 674_188
+  - first:
+      213: -8164201438802356259
+    second: 674_189
+  - first:
+      213: -1714280363371622771
+    second: 674_190
+  - first:
+      213: -7604717265429825981
+    second: 674_191
+  - first:
+      213: 3919766500814400725
+    second: 674_192
+  - first:
+      213: 6308756646686800540
+    second: 674_193
+  - first:
+      213: 3468501551512690815
+    second: 674_194
+  - first:
+      213: 7888557755625953130
+    second: 674_195
+  - first:
+      213: -2630393486205118824
+    second: 674_196
+  - first:
+      213: 29164732835944345
+    second: 674_197
+  - first:
+      213: -4518964336789159180
+    second: 674_198
+  - first:
+      213: 2765905799856016624
+    second: 674_199
+  - first:
+      213: 4105791135915290302
+    second: 674_200
+  - first:
+      213: -5133088932620596971
+    second: 674_201
+  - first:
+      213: -6383706048615233816
+    second: 674_202
+  - first:
+      213: 4662236682887130001
+    second: 674_203
+  - first:
+      213: 8129541040403387134
+    second: 674_204
+  - first:
+      213: -4847667895671743932
+    second: 674_205
+  - first:
+      213: 8601940747599115240
+    second: 674_206
+  - first:
+      213: -3609238490002870544
+    second: 674_207
+  - first:
+      213: 7910169717807502297
+    second: 674_208
+  - first:
+      213: 7505418643584612941
+    second: 674_209
+  - first:
+      213: -5852320027359990772
+    second: 674_210
+  - first:
+      213: 4307454960141798883
+    second: 674_211
+  - first:
+      213: -5785948679176495145
+    second: 674_212
+  - first:
+      213: 4161825336035068346
+    second: 674_213
+  - first:
+      213: 3331043701441116349
+    second: 674_214
+  - first:
+      213: -2761631335737486829
+    second: 674_215
+  - first:
+      213: -1091527711903244587
+    second: 674_216
+  - first:
+      213: -3711230136074254913
+    second: 674_217
+  - first:
+      213: 5952499018717314848
+    second: 674_218
+  - first:
+      213: 6955346920717729113
+    second: 674_219
+  - first:
+      213: -5915672395926569108
+    second: 674_220
+  - first:
+      213: 4969346399692646926
+    second: 674_221
+  - first:
+      213: -7668574840953616720
+    second: 674_222
+  - first:
+      213: 8260448463137602074
+    second: 674_223
+  - first:
+      213: -6541755658450411996
+    second: 674_224
+  - first:
+      213: -3090823994558815431
+    second: 674_225
+  - first:
+      213: 9156270826070276449
+    second: 674_226
+  - first:
+      213: -1688784163516058993
+    second: 674_227
+  - first:
+      213: -6373529891928852619
+    second: 674_228
+  - first:
+      213: 8652190414362882368
+    second: 674_229
+  - first:
+      213: 5869736569380281974
+    second: 674_230
+  - first:
+      213: -7028584337226048094
+    second: 674_231
+  - first:
+      213: 5958586497598924330
+    second: 674_232
+  - first:
+      213: 7788023219757320397
+    second: 674_233
+  - first:
+      213: -4502598171327334413
+    second: 674_234
+  - first:
+      213: -7336883232121663558
+    second: 674_235
+  - first:
+      213: -6296736756104207289
+    second: 674_236
+  - first:
+      213: 4673060756952340141
+    second: 674_237
+  - first:
+      213: 7679959424542449322
+    second: 674_238
+  - first:
+      213: 800104456807836362
+    second: 674_239
+  - first:
+      213: 8365828345758397828
+    second: 674_240
+  - first:
+      213: 1074643476208804034
+    second: 674_241
+  - first:
+      213: -5378830541019062003
+    second: 674_242
+  - first:
+      213: 5305468628187347607
+    second: 674_243
+  - first:
+      213: 8442646055293518022
+    second: 674_244
+  - first:
+      213: 2186495269035027534
+    second: 674_245
+  - first:
+      213: 791266957797267607
+    second: 674_246
+  - first:
+      213: 7290650887286194651
+    second: 674_247
+  - first:
+      213: -5204221998995372350
+    second: 674_248
+  - first:
+      213: 1164416558676631474
+    second: 674_249
+  - first:
+      213: -5538762734003800253
+    second: 674_250
+  - first:
+      213: -1206691144529442331
+    second: 674_251
+  - first:
+      213: -3193139514883062499
+    second: 674_252
+  - first:
+      213: 4755851332833965148
+    second: 674_253
+  - first:
+      213: 4246697438298477479
+    second: 674_254
+  - first:
+      213: -167258944813296210
+    second: 674_255
+  - first:
+      213: 1735632829250926753
+    second: 674_256
+  - first:
+      213: 1944870312635356006
+    second: 674_257
+  - first:
+      213: 8749494971822593111
+    second: 674_258
+  - first:
+      213: -5091033231613281498
+    second: 674_259
+  - first:
+      213: -4970850111945484114
+    second: 674_260
+  - first:
+      213: -1187715676709786754
+    second: 674_261
+  - first:
+      213: -5408392689435376797
+    second: 674_262
+  - first:
+      213: 4982873684761451958
+    second: 674_263
+  - first:
+      213: -885360917246654342
+    second: 674_264
+  - first:
+      213: -275068627019401776
+    second: 674_265
+  - first:
+      213: 9030501491238411885
+    second: 674_266
+  - first:
+      213: 3544693777128390125
+    second: 674_267
+  - first:
+      213: 622406868733539651
+    second: 674_268
+  - first:
+      213: 8003626344028538285
+    second: 674_269
+  - first:
+      213: -3584400636457457970
+    second: 674_270
+  - first:
+      213: -6525697518584167181
+    second: 674_271
+  - first:
+      213: -3266310289320070943
+    second: 674_272
+  - first:
+      213: 4804438995094202989
+    second: 674_273
+  - first:
+      213: -5186075912796687319
+    second: 674_274
+  - first:
+      213: 838977339192858918
+    second: 674_275
+  - first:
+      213: 5442621449711137910
+    second: 674_276
+  - first:
+      213: -8831198762260203652
+    second: 674_277
+  - first:
+      213: 7248387210765404208
+    second: 674_278
+  - first:
+      213: -9158287569928143518
+    second: 674_279
+  - first:
+      213: -2090255147072557059
+    second: 674_280
+  - first:
+      213: -6220955577533513927
+    second: 674_281
+  - first:
+      213: 2483405696016930705
+    second: 674_282
+  - first:
+      213: 6019019526932038175
+    second: 674_283
+  - first:
+      213: -8236394497009188607
+    second: 674_284
+  - first:
+      213: 6183514579872936509
+    second: 674_285
+  - first:
+      213: -1128429634934351720
+    second: 674_286
+  - first:
+      213: -23569429627913709
+    second: 674_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LvlUpEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e79598f8933c74787c615d7d0b6e0b
+      internalID: 2113919104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e86443430aa3b44b003b015989ec72
+      internalID: -1154249070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5365f341388304c9a56135f3626f3c
+      internalID: 334395635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330cdd994f87a04bb4f6180049c07b7
+      internalID: -175844500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0437c4fed4b84b950b5e40831a7d8
+      internalID: -1889764191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad9cbbdc3cbfb4bb1f34fe486de848
+      internalID: 408207384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59606d5333763e4088c0d1a021e2665
+      internalID: 1018511901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357c9932ed5aa24693cd2ef6b7daf4d
+      internalID: 1962643696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebe73b4152667e4f983e34c4165c6ec
+      internalID: 2094885536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a18dd5076780d45ae632569f7ca2b5
+      internalID: 932604975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbc23a9ac71fe43a66cce1af6c2751
+      internalID: -2127800353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42785b135f86c4d8ad22128d7c3efc
+      internalID: -772124217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58201f86bb43b48a398af30f94268c
+      internalID: 1980016518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb53e6745c72d4ea359b4860a1eeb7
+      internalID: -1471727698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b71e2cda498ec43a8a2b7d85076017
+      internalID: 2073106769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3720cfd7a75944eb5563db011b1b6b
+      internalID: -1288221829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04931f3bbf9574f811b3f8248eb205
+      internalID: 940708013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e59d4752613b1a448af7484a2c0c1a4
+      internalID: -1569815144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d59ecfaf339042b1b5618d0faf89d
+      internalID: -1952716151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219184cd53d5c74dbea7c0e6d7fc952
+      internalID: 190750634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fff8566e161be42b162f11b8735b2d
+      internalID: -1531992397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d34ca3099944549a21feeb5da77e69
+      internalID: 993542885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35151c4c5a2c78d4b81afdab35ab48dc
+      internalID: -2015780034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505daf7f1f59124599f653437f38643
+      internalID: -1383946639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454b55d8490be44b82d77462693134b
+      internalID: 1689469099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bea5f4ec4c5ad4584d3a3e5129baf6
+      internalID: -180914350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6dae8709a1ee44aa304c98738c8184
+      internalID: 530316200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203e0769e8c8b549ba76a1c0a8dd4e1
+      internalID: 1096575716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45097f515115649a684452fe8e6a2b
+      internalID: -134186027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f41386e21415741b41df6606082faa
+      internalID: -1007125496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0525752a91ec5429598ba7707fbe6c
+      internalID: -824604514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d2ea6a840e9b489fe16da18eb2013
+      internalID: 688471774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1354bbefe9854a931ef97f565193a
+      internalID: -14591117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e476deba3bde348b6b9bb9f27cfa46
+      internalID: 1854750622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e9f4a56898b341943c1248f59ba6d
+      internalID: -573772335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa85014a91b2b4a829540fcdab6984
+      internalID: 1517762747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d7204fd7d74e47bbe73613525d9c7
+      internalID: 239349989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d97f7ff84ea68c4e93120475879ddc5
+      internalID: 375099013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102855bd3ce8b7e49872f8a666bad203
+      internalID: 1417195925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09202e792b7161458bbf7f9629276ba
+      internalID: 903211650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3831eef2403942a45e2fc44896822
+      internalID: -1727955614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2750552506667440adbad5a529e3ddd
+      internalID: 1954141114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c9f1e67359894984f5b0ccb81123e
+      internalID: -1852376286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2174c3f5ad4b02c4fbb2c4c63b9b5bb5
+      internalID: -1822884432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5165b85597b8d4388382c612a77d24
+      internalID: -1780766350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7518f95e42b7646892ccd0b83728c4
+      internalID: 2078700983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b99dc6b92ddca45825efae2d657cf7
+      internalID: 1314700502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7c5af27834794281d9a32ca23c549
+      internalID: -287975379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6516a4f6275f46b7f55c52adaf444
+      internalID: -562691841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_49
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bdb60809608814c9fd732e96187f88
+      internalID: 848127855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_50
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4e781ec335539498fa1068ac86b180
+      internalID: -634027057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5897f246b8836544bb63d69e634c6513
+      internalID: 1108732947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79803f940162804b93d008eb9c26e57
+      internalID: 87700982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_53
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf4d1265c8615429282eccdfcf8b5a
+      internalID: 1010256959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f16a4f82260547add00c4f7080d35
+      internalID: -1772518455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56791fe78d6ffb343a61cfe8719a77f7
+      internalID: 106067545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129df6d122963a74b8603904fdcb3df7
+      internalID: 1639611639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4fe2ebba8060547a9b6429bb865405
+      internalID: -11760602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07f85affa3dc14d9ad363ffee104f1
+      internalID: -1868782804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bcb849f5fd0e43b8424c38b9f6577
+      internalID: -815031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ac8ea004ca3045be4355d4e297b26
+      internalID: -1505835568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d8d135266a7043b5e3af482ab46d0
+      internalID: 314760643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6b83afdc737e4490a2a7f6cf3a9e5
+      internalID: -100274211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a814b71afc5fabd4e979af07b0421ecf
+      internalID: 502296704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf6d4391a541246b53f7641f1b91e1
+      internalID: 322613964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_65
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5696c011d4fb4395708b7f3e9fd29
+      internalID: -1731216071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1817b9ae942ce642891d4c27cdf11d8
+      internalID: 1064800385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_67
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f24ec636b8eb6e4aa9f14c946e4fe1f
+      internalID: -226886925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_68
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb921f619683b43b3422b488d79a1e
+      internalID: 532835429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04da479c8fbb174ea322e4be0fc58ae
+      internalID: -1975001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_70
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffa6eb449b6a54facdca24a9312e26
+      internalID: 811622994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_71
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a2bf27246d824e9c0e7ab1e3c858b
+      internalID: 1124180488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217d0109dde4d04199c2581f32ec4f4
+      internalID: -828427178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14489687335f24da8e38708524b915
+      internalID: 397982640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a337c81ecc964a9b825f2744631d1
+      internalID: 702429005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d464642e8c8e5948874c01e8bd22510
+      internalID: -1908340405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a72b8689a2f64494d0d7ba6ebc22d
+      internalID: -1455659090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e287774abfce4ca58c0a883623c8d
+      internalID: -580992482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc39c7f4e016841b857713446c9d19
+      internalID: -1859023819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287396d1d69bdbc49af85559d1f23224
+      internalID: -998885081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751245691c4fe243829930a50906fc6
+      internalID: -247571730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8cd7f84490aa24f94094d0de525673
+      internalID: -1982449094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09b979f953b7046953bfc7d206adbc
+      internalID: 764051147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf14657f430c04e913f3107babca06
+      internalID: 2073144549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5546950eeb92744a42afb0f9cc559b
+      internalID: 786986384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_85
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ebb3e73660804f816e746648907ef
+      internalID: -1532536546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1ccc9215d819d439861d268c91582d
+      internalID: 651285464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5258e2621928f940b9cfde1299eb881
+      internalID: -1764176425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed9fb2d2609ab448d93403ea29c72a
+      internalID: 454238924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_89
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3de8804bc7367c4e870b82d690548b3
+      internalID: -698412295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402deb83ae0e0a94aae9f84e4a4ccdaa
+      internalID: 1840852824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde444dba0c96f4d98a22009a07d792
+      internalID: 579878628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de713141f01cec142a30abf25b8a8d1e
+      internalID: 1380260041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc557bd0a88aec499e12dceb1a10fbe
+      internalID: -716518494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f80ee5a506b2479051c6beb2da85f
+      internalID: -1052336053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35cf0c72dda1042b7bde0a8a1b25ca
+      internalID: -342636046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2f0aa6ece18c448332808a46f2b29
+      internalID: -1650064272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af2095e1442104b8ab1d520fdf832b
+      internalID: 1423745665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3c3ae916957843ab9b002d8fc7dd9
+      internalID: 306383846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9592988d761ac429f9aa72b27bd5bf
+      internalID: 2060176719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a320f3198251e84099a70533553097c
+      internalID: -2028766550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_101
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c60a1b67ee1043b19e54396ff42ca
+      internalID: -150597401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aea91942484cc4bac043cb23b071e6
+      internalID: 1581551056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_103
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9cf4c598b4c244b76b149185e0972
+      internalID: 2088495846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395de3f2a0753754ba91dcfd7eed89b9
+      internalID: -1499247699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb94ca4d6240d54f9cb446fd9afa5f4
+      internalID: -330308033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd17f81b67e6049923b1af474244dd
+      internalID: 1424057518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_107
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb6a57b23b08549af4cac71890effc
+      internalID: 106333127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434650bd540cc0544a03be1f9a32c53f
+      internalID: 1124520604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921cd2c500e785945907e67b96ab81f7
+      internalID: 1760502749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705119f0eee1be44967aee024e59295
+      internalID: 1861617064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ebc70325064744a0e71bdd8bddd86
+      internalID: 154362696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b36c6504d7d748b3344e194f1f6c5
+      internalID: -1669303914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00767f1b4211b9f40a39479daadc9b58
+      internalID: -1030047666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff0730e58945748ab9e5aa9971b53b
+      internalID: -2079543828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361c3691721a6449981bcf20644b46c
+      internalID: -1838359811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed783820d483fa4fa6dbf9e42be86a0
+      internalID: -921834308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a91620df83d044bfa29d56db9051d
+      internalID: 95182378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3095a3aa34d02146ad9007d6ed18fb6
+      internalID: 130248356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_119
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f2512dba71bb478c844b789a81f17
+      internalID: -334756285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_120
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dee8232a943e4fbf8122545d960fa
+      internalID: 1438857215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_121
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7183c3c43b9201f4f8e0c9778c4f6cc3
+      internalID: -1125803005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_122
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517bcfbd6c6d3b4e9477fc27e2fe211
+      internalID: 1039428921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a5c7c7bd96e8447a1a660fc8a7d604
+      internalID: -1501319965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_124
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f70e5de98d2d847a91828e1fe69800
+      internalID: 236763104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_125
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3ceaf1b3862d46a5ccac1c063615b
+      internalID: -2101683228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf6cd1256ae9ac44924b5fb997207c3
+      internalID: 2084924730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922064faf9046eb4fa43c386e4ef5e52
+      internalID: 903961479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996f6e78e7f62742b48a149054c882a
+      internalID: 659031846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fccf50b859e4b46bcf77f6f9eb5bbd
+      internalID: -1839128768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0433387bf6315f44a7b9f8d70277ec6
+      internalID: 431475220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70298426dcad08548b426fa660e717b4
+      internalID: 1250579304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07de63854e5c80d4c9669016b26e2810
+      internalID: 1652287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7cd92ca9f68ee44b56cb310f91e541
+      internalID: -102299036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c585f9df70d5a40af2d695a89faaf9
+      internalID: -1784967054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202146ff43e75b48a7bd35935b403f2
+      internalID: -1622131167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f997cf0351fc484d9f47a9296a6a0a5
+      internalID: -680220782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_137
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78c9dd266021949ba473a36a3bb6be
+      internalID: -2098500016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798249e42fd492b4c981f1e0d7d94723
+      internalID: 1530861752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_139
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5469a11a93bed4e902f0ff2cb0e61b
+      internalID: -367402258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_140
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcb8b8a52b04f4f8432d5ee3274368
+      internalID: 1827400503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_141
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182baef7a06a6d84db81bff6fe75abf3
+      internalID: -2034480191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd9ed574097e1a48a1a1e0d11545caa
+      internalID: -1160997113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_143
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f90031a2401144b90d5459020efb41
+      internalID: 317521359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115d3e42fc0f26d4680acce9c1f16e26
+      internalID: -843823648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812017d0b0da654fa59b20520e7f900
+      internalID: -2125014947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e60f39ced3554ba58ef44c7b3eecb
+      internalID: -717018751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1a9db47bf0584dbc2d1e44bfc00f1
+      internalID: -2070669759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4df59380ef1a54da69f2a1e30745f3
+      internalID: -184141536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f39183b7d6bf144920e8d5c6fc0b72
+      internalID: -1826713547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76d6f15cbddef45bf6439ffac6f441
+      internalID: 1498519614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d427781ec68b64da3bfbedd8b19bbe
+      internalID: -1297276592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794fe65252c88774980df457362d400c
+      internalID: 811386576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a9a5ec63bfe44cabeff536ceb3f1f
+      internalID: -2146849343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5716e47262be43b780dea1e638f23
+      internalID: -919156630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e638a173f4ac44d93d8938f5885594
+      internalID: 649563563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5ab3aff71e7f4796b77772d0f1094
+      internalID: -420513587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657e560c2ff5d94898f1d97660708c0
+      internalID: 690062207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e7e10e5ea14924c8a94c4d47b517a4
+      internalID: 1126562897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a2101f21d85647880b4b3e2949c56
+      internalID: -1297925231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63febd1dd697d824bb5c99a663d1e362
+      internalID: -833240790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlUpEffect_161
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335750dd3513164d88fd762fcc23d0e
+      internalID: -976800281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5c226ffd8f3103458d8875e03fb6edf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LvlUpEffect_0: 2113919104
+      LvlUpEffect_1: -1154249070
+      LvlUpEffect_10: -2127800353
+      LvlUpEffect_100: -2028766550
+      LvlUpEffect_101: -150597401
+      LvlUpEffect_102: 1581551056
+      LvlUpEffect_103: 2088495846
+      LvlUpEffect_104: -1499247699
+      LvlUpEffect_105: -330308033
+      LvlUpEffect_106: 1424057518
+      LvlUpEffect_107: 106333127
+      LvlUpEffect_108: 1124520604
+      LvlUpEffect_109: 1760502749
+      LvlUpEffect_11: -772124217
+      LvlUpEffect_110: 1861617064
+      LvlUpEffect_111: 154362696
+      LvlUpEffect_112: -1669303914
+      LvlUpEffect_113: -1030047666
+      LvlUpEffect_114: -2079543828
+      LvlUpEffect_115: -1838359811
+      LvlUpEffect_116: -921834308
+      LvlUpEffect_117: 95182378
+      LvlUpEffect_118: 130248356
+      LvlUpEffect_119: -334756285
+      LvlUpEffect_12: 1980016518
+      LvlUpEffect_120: 1438857215
+      LvlUpEffect_121: -1125803005
+      LvlUpEffect_122: 1039428921
+      LvlUpEffect_123: -1501319965
+      LvlUpEffect_124: 236763104
+      LvlUpEffect_125: -2101683228
+      LvlUpEffect_126: 2084924730
+      LvlUpEffect_127: 903961479
+      LvlUpEffect_128: 659031846
+      LvlUpEffect_129: -1839128768
+      LvlUpEffect_13: -1471727698
+      LvlUpEffect_130: 431475220
+      LvlUpEffect_131: 1250579304
+      LvlUpEffect_132: 1652287443
+      LvlUpEffect_133: -102299036
+      LvlUpEffect_134: -1784967054
+      LvlUpEffect_135: -1622131167
+      LvlUpEffect_136: -680220782
+      LvlUpEffect_137: -2098500016
+      LvlUpEffect_138: 1530861752
+      LvlUpEffect_139: -367402258
+      LvlUpEffect_14: 2073106769
+      LvlUpEffect_140: 1827400503
+      LvlUpEffect_141: -2034480191
+      LvlUpEffect_142: -1160997113
+      LvlUpEffect_143: 317521359
+      LvlUpEffect_144: -843823648
+      LvlUpEffect_145: -2125014947
+      LvlUpEffect_146: -717018751
+      LvlUpEffect_147: -2070669759
+      LvlUpEffect_148: -184141536
+      LvlUpEffect_149: -1826713547
+      LvlUpEffect_15: -1288221829
+      LvlUpEffect_150: 1498519614
+      LvlUpEffect_151: -1297276592
+      LvlUpEffect_152: 811386576
+      LvlUpEffect_153: -2146849343
+      LvlUpEffect_154: -919156630
+      LvlUpEffect_155: 649563563
+      LvlUpEffect_156: -420513587
+      LvlUpEffect_157: 690062207
+      LvlUpEffect_158: 1126562897
+      LvlUpEffect_159: -1297925231
+      LvlUpEffect_16: 940708013
+      LvlUpEffect_160: -833240790
+      LvlUpEffect_161: -976800281
+      LvlUpEffect_17: -1569815144
+      LvlUpEffect_18: -1952716151
+      LvlUpEffect_19: 190750634
+      LvlUpEffect_2: 334395635
+      LvlUpEffect_20: -1531992397
+      LvlUpEffect_21: 993542885
+      LvlUpEffect_22: -2015780034
+      LvlUpEffect_23: -1383946639
+      LvlUpEffect_24: 1689469099
+      LvlUpEffect_25: -180914350
+      LvlUpEffect_26: 530316200
+      LvlUpEffect_27: 1096575716
+      LvlUpEffect_28: -134186027
+      LvlUpEffect_29: -1007125496
+      LvlUpEffect_3: -175844500
+      LvlUpEffect_30: -824604514
+      LvlUpEffect_31: 688471774
+      LvlUpEffect_32: -14591117
+      LvlUpEffect_33: 1854750622
+      LvlUpEffect_34: -573772335
+      LvlUpEffect_35: 1517762747
+      LvlUpEffect_36: 239349989
+      LvlUpEffect_37: 375099013
+      LvlUpEffect_38: 1417195925
+      LvlUpEffect_39: 903211650
+      LvlUpEffect_4: -1889764191
+      LvlUpEffect_40: -1727955614
+      LvlUpEffect_41: 1954141114
+      LvlUpEffect_42: -1852376286
+      LvlUpEffect_43: -1822884432
+      LvlUpEffect_44: -1780766350
+      LvlUpEffect_45: 2078700983
+      LvlUpEffect_46: 1314700502
+      LvlUpEffect_47: -287975379
+      LvlUpEffect_48: -562691841
+      LvlUpEffect_49: 848127855
+      LvlUpEffect_5: 408207384
+      LvlUpEffect_50: -634027057
+      LvlUpEffect_51: 1108732947
+      LvlUpEffect_52: 87700982
+      LvlUpEffect_53: 1010256959
+      LvlUpEffect_54: -1772518455
+      LvlUpEffect_55: 106067545
+      LvlUpEffect_56: 1639611639
+      LvlUpEffect_57: -11760602
+      LvlUpEffect_58: -1868782804
+      LvlUpEffect_59: -815031694
+      LvlUpEffect_6: 1018511901
+      LvlUpEffect_60: -1505835568
+      LvlUpEffect_61: 314760643
+      LvlUpEffect_62: -100274211
+      LvlUpEffect_63: 502296704
+      LvlUpEffect_64: 322613964
+      LvlUpEffect_65: -1731216071
+      LvlUpEffect_66: 1064800385
+      LvlUpEffect_67: -226886925
+      LvlUpEffect_68: 532835429
+      LvlUpEffect_69: -1975001034
+      LvlUpEffect_7: 1962643696
+      LvlUpEffect_70: 811622994
+      LvlUpEffect_71: 1124180488
+      LvlUpEffect_72: -828427178
+      LvlUpEffect_73: 397982640
+      LvlUpEffect_74: 702429005
+      LvlUpEffect_75: -1908340405
+      LvlUpEffect_76: -1455659090
+      LvlUpEffect_77: -580992482
+      LvlUpEffect_78: -1859023819
+      LvlUpEffect_79: -998885081
+      LvlUpEffect_8: 2094885536
+      LvlUpEffect_80: -247571730
+      LvlUpEffect_81: -1982449094
+      LvlUpEffect_82: 764051147
+      LvlUpEffect_83: 2073144549
+      LvlUpEffect_84: 786986384
+      LvlUpEffect_85: -1532536546
+      LvlUpEffect_86: 651285464
+      LvlUpEffect_87: -1764176425
+      LvlUpEffect_88: 454238924
+      LvlUpEffect_89: -698412295
+      LvlUpEffect_9: 932604975
+      LvlUpEffect_90: 1840852824
+      LvlUpEffect_91: 579878628
+      LvlUpEffect_92: 1380260041
+      LvlUpEffect_93: -716518494
+      LvlUpEffect_94: -1052336053
+      LvlUpEffect_95: -342636046
+      LvlUpEffect_96: -1650064272
+      LvlUpEffect_97: 1423745665
+      LvlUpEffect_98: 306383846
+      LvlUpEffect_99: 2060176719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

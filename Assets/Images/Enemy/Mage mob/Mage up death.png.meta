@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: a639e28092b97c24886812589df96d12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6922770753037090391
+    second: Mage up death_0
+  - first:
+      213: 2829244258209343444
+    second: Mage up death_1
+  - first:
+      213: -2150596251986127000
+    second: Mage up death_2
+  - first:
+      213: -2064034677994751691
+    second: Mage up death_3
+  - first:
+      213: -1491937330922834264
+    second: Mage up death_4
+  - first:
+      213: -7640506184097113327
+    second: Mage up death_5
+  - first:
+      213: -4986683886352214873
+    second: Mage up death_6
+  - first:
+      213: -4344630365603287891
+    second: Mage up death_7
+  - first:
+      213: -5038444383430360474
+    second: Mage up death_8
+  - first:
+      213: -7188943929884251074
+    second: Mage up death_9
+  - first:
+      213: -3229688819030524508
+    second: Mage up death_10
+  - first:
+      213: -4412141118386140884
+    second: Mage up death_11
+  - first:
+      213: -1658444882678021848
+    second: Mage up death_12
+  - first:
+      213: 3288760628174254648
+    second: Mage up death_13
+  - first:
+      213: 615053300770755058
+    second: Mage up death_14
+  - first:
+      213: 2152777608466276622
+    second: Mage up death_15
+  - first:
+      213: 3947312730252355949
+    second: Mage up death_16
+  - first:
+      213: 8372267820862950311
+    second: Mage up death_17
+  - first:
+      213: 6802094753259225194
+    second: Mage up death_18
+  - first:
+      213: -461741831176700266
+    second: Mage up death_19
+  - first:
+      213: -8174255887497430253
+    second: Mage up death_20
+  - first:
+      213: -8203350842845861588
+    second: Mage up death_21
+  - first:
+      213: 2634394159684426073
+    second: Mage up death_22
+  - first:
+      213: 1333850567933728170
+    second: Mage up death_23
+  - first:
+      213: -3342696955651666155
+    second: Mage up death_24
+  - first:
+      213: -8985072059028402321
+    second: Mage up death_25
+  - first:
+      213: -7521102175974521860
+    second: Mage up death_26
+  - first:
+      213: 8883307607774061588
+    second: Mage up death_27
+  - first:
+      213: 5309753099985679775
+    second: Mage up death_28
+  - first:
+      213: -3028366172051070705
+    second: Mage up death_29
+  - first:
+      213: -1320298938087506050
+    second: Mage up death_30
+  - first:
+      213: 4619724972698833738
+    second: Mage up death_31
+  - first:
+      213: -1297579643400317629
+    second: Mage up death_32
+  - first:
+      213: 2778545008878102154
+    second: Mage up death_33
+  - first:
+      213: 4014098045854403112
+    second: Mage up death_34
+  - first:
+      213: -3399574356102101179
+    second: Mage up death_35
+  - first:
+      213: 1119329265093213266
+    second: Mage up death_36
+  - first:
+      213: 4244544641282095645
+    second: Mage up death_37
+  - first:
+      213: 8900327198505375932
+    second: Mage up death_38
+  - first:
+      213: 2352749000892955536
+    second: Mage up death_39
+  - first:
+      213: -9121554340007873419
+    second: Mage up death_40
+  - first:
+      213: 7133617461113840769
+    second: Mage up death_41
+  - first:
+      213: 2067250560457939253
+    second: Mage up death_42
+  - first:
+      213: 5281976010545957589
+    second: Mage up death_43
+  - first:
+      213: -365685033968277941
+    second: Mage up death_44
+  - first:
+      213: -6626631694592516056
+    second: Mage up death_45
+  - first:
+      213: -7805014103337426458
+    second: Mage up death_46
+  - first:
+      213: 8928732928478554319
+    second: Mage up death_47
+  - first:
+      213: -5455979352551332882
+    second: Mage up death_48
+  - first:
+      213: -1169182798583808922
+    second: Mage up death_49
+  - first:
+      213: -3997363665019556291
+    second: Mage up death_50
+  - first:
+      213: 2356385002455144595
+    second: Mage up death_51
+  - first:
+      213: 3242490858589121817
+    second: Mage up death_52
+  - first:
+      213: -114904137216651387
+    second: Mage up death_53
+  - first:
+      213: 9047499116686574492
+    second: Mage up death_54
+  - first:
+      213: -8276711506416068032
+    second: Mage up death_55
+  - first:
+      213: -7901488181087000375
+    second: Mage up death_56
+  - first:
+      213: 1580454583271402723
+    second: Mage up death_57
+  - first:
+      213: -8164178559488558565
+    second: Mage up death_58
+  - first:
+      213: -4594179940455992895
+    second: Mage up death_59
+  - first:
+      213: 726423766175679264
+    second: Mage up death_60
+  - first:
+      213: -8249806605663762069
+    second: Mage up death_61
+  - first:
+      213: 4011742067245992880
+    second: Mage up death_62
+  - first:
+      213: -2944967743227098176
+    second: Mage up death_63
+  - first:
+      213: 8814508152647951104
+    second: Mage up death_64
+  - first:
+      213: 2328184008318290106
+    second: Mage up death_65
+  - first:
+      213: -1648799755259032051
+    second: Mage up death_66
+  - first:
+      213: -7619497263051462032
+    second: Mage up death_67
+  - first:
+      213: -369290170488273699
+    second: Mage up death_68
+  - first:
+      213: -1345769725803796002
+    second: Mage up death_69
+  - first:
+      213: -1698546068764536442
+    second: Mage up death_70
+  - first:
+      213: 1830979502641989365
+    second: Mage up death_71
+  - first:
+      213: -5235010874870258419
+    second: Mage up death_72
+  - first:
+      213: -5603583006662861641
+    second: Mage up death_73
+  - first:
+      213: -6024843399009233784
+    second: Mage up death_74
+  - first:
+      213: -67498026972531302
+    second: Mage up death_75
+  - first:
+      213: -5103486172688514112
+    second: Mage up death_76
+  - first:
+      213: 7314772492509563203
+    second: Mage up death_77
+  - first:
+      213: 1831885314905830465
+    second: Mage up death_78
+  - first:
+      213: -1943626744418459059
+    second: Mage up death_79
+  - first:
+      213: 9054488814565138834
+    second: Mage up death_80
+  - first:
+      213: 8080123131810397460
+    second: Mage up death_81
+  - first:
+      213: 7778099671369149729
+    second: Mage up death_82
+  - first:
+      213: -8866743667109688927
+    second: Mage up death_83
+  - first:
+      213: -3454894213957069631
+    second: Mage up death_84
+  - first:
+      213: 253272729320349611
+    second: Mage up death_85
+  - first:
+      213: -3597644919774289057
+    second: Mage up death_86
+  - first:
+      213: 3511110107346274069
+    second: Mage up death_87
+  - first:
+      213: 7363663570793196148
+    second: Mage up death_88
+  - first:
+      213: -89250315068470416
+    second: Mage up death_89
+  - first:
+      213: 4726587980197838205
+    second: Mage up death_90
+  - first:
+      213: -5794303353471036827
+    second: Mage up death_91
+  - first:
+      213: -5757996686528341477
+    second: Mage up death_92
+  - first:
+      213: 5892117952671869836
+    second: Mage up death_93
+  - first:
+      213: 6369141345748543349
+    second: Mage up death_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage up death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c2c3bda06def90800000000000000
+      internalID: -6922770753037090391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7a161b9ae734720800000000000000
+      internalID: 2829244258209343444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86794196a1c8722e0800000000000000
+      internalID: -2150596251986127000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f80665631b53e0800000000000000
+      internalID: -2064034677994751691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a63333f6e29b4be0800000000000000
+      internalID: -1491937330922834264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b57b05b1877f590800000000000000
+      internalID: -7640506184097113327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4dfca0d6dbbcab0800000000000000
+      internalID: -4986683886352214873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac27d983b5c4b3c0800000000000000
+      internalID: -4344630365603287891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66242113789d31ab0800000000000000
+      internalID: -5038444383430360474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage up death_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c6c0d959dbb3c90800000000000000
+      internalID: -7188943929884251074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49b00674d022331419668d6f3dc6b96a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage up death_0: -6922770753037090391
+      Mage up death_1: 2829244258209343444
+      Mage up death_2: -2150596251986127000
+      Mage up death_3: -2064034677994751691
+      Mage up death_4: -1491937330922834264
+      Mage up death_5: -7640506184097113327
+      Mage up death_6: -4986683886352214873
+      Mage up death_7: -4344630365603287891
+      Mage up death_8: -5038444383430360474
+      Mage up death_9: -7188943929884251074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

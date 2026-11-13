@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f67ce15cbde904aa73b04ad0217423, type: 3}
+  m_Name: slimeIce
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  baseHP: 50
+  baseATK: 2
+  baseDEF: 10
+  baseSPD: 4
+  _xp: 10
+  baseSkills:
+  - {fileID: 11400000, guid: 213609dca80b045dfb1d8a9879d2a18b, type: 2}
+  _size: 0.7
+  _offset: {x: 0, y: -0.3}
+  idle:
+  - {fileID: 7088771460515512052, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 4511569794429312399, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 7868160658536115130, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 3310051981208791895, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 2498403414938622237, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 4390724016418044394, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 5395403220712545358, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  - {fileID: 4794728312811926779, guid: 474ab9748a2f00143ae361671bc2c8cd, type: 3}
+  move: []
+  attack1: []
+  attack2: []
+  hurt: []
+  down: []
+  framesPerSec: 4
+  aniDir: 0
+  animator: {fileID: 22100000, guid: 96bd1ceea6c28944d9f8d4b5c60ded28, type: 2}

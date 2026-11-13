@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: f87bf91df988a67408c8936769c501f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5406728849644155415
+    second: Earth Slime run_0
+  - first:
+      213: 9184041597271695937
+    second: Earth Slime run_1
+  - first:
+      213: 1489172647721786039
+    second: Earth Slime run_2
+  - first:
+      213: 4145531649605421582
+    second: Earth Slime run_3
+  - first:
+      213: -867254379325105530
+    second: Earth Slime run_4
+  - first:
+      213: 3496410971567715601
+    second: Earth Slime run_5
+  - first:
+      213: -855825149298125141
+    second: Earth Slime run_6
+  - first:
+      213: 5123706571055800627
+    second: Earth Slime run_7
+  - first:
+      213: -3261586706306306811
+    second: Earth Slime run_8
+  - first:
+      213: -4707763565798929098
+    second: Earth Slime run_9
+  - first:
+      213: -4403709294221876208
+    second: Earth Slime run_10
+  - first:
+      213: -2195265502007707242
+    second: Earth Slime run_11
+  - first:
+      213: 742215133571567631
+    second: Earth Slime run_12
+  - first:
+      213: -3919370558946598847
+    second: Earth Slime run_13
+  - first:
+      213: 9109276989348498815
+    second: Earth Slime run_14
+  - first:
+      213: -7228739768600546790
+    second: Earth Slime run_15
+  - first:
+      213: -7354855217077337107
+    second: Earth Slime run_16
+  - first:
+      213: -5877331122301599606
+    second: Earth Slime run_17
+  - first:
+      213: -1088633873892618298
+    second: Earth Slime run_18
+  - first:
+      213: -6153824406343168286
+    second: Earth Slime run_19
+  - first:
+      213: 4634302465057564934
+    second: Earth Slime run_20
+  - first:
+      213: 6053193139840087671
+    second: Earth Slime run_21
+  - first:
+      213: 3436662663359412108
+    second: Earth Slime run_22
+  - first:
+      213: 3159197012147370924
+    second: Earth Slime run_23
+  - first:
+      213: 5253829092707980612
+    second: Earth Slime run_24
+  - first:
+      213: -8979673176794760255
+    second: Earth Slime run_25
+  - first:
+      213: 253996403903593099
+    second: Earth Slime run_26
+  - first:
+      213: -4961924088279603251
+    second: Earth Slime run_27
+  - first:
+      213: 8195447432923759251
+    second: Earth Slime run_28
+  - first:
+      213: 694041527259693338
+    second: Earth Slime run_29
+  - first:
+      213: -7556883550420330100
+    second: Earth Slime run_30
+  - first:
+      213: 4412656792308556438
+    second: Earth Slime run_31
+  - first:
+      213: 7059266782397925242
+    second: Earth Slime run_32
+  - first:
+      213: 5085022596080920454
+    second: Earth Slime run_33
+  - first:
+      213: -8954123567199599269
+    second: Earth Slime run_34
+  - first:
+      213: 8293502393363119138
+    second: Earth Slime run_35
+  - first:
+      213: 133124617296535097
+    second: Earth Slime run_36
+  - first:
+      213: -5263044096184814066
+    second: Earth Slime run_37
+  - first:
+      213: 3849276177837010279
+    second: Earth Slime run_38
+  - first:
+      213: -4818885426834076230
+    second: Earth Slime run_39
+  - first:
+      213: -382964265525850233
+    second: Earth Slime run_40
+  - first:
+      213: -648328613446911615
+    second: Earth Slime run_41
+  - first:
+      213: -1387832323592937484
+    second: Earth Slime run_42
+  - first:
+      213: -5459479986611353569
+    second: Earth Slime run_43
+  - first:
+      213: -450838304144893560
+    second: Earth Slime run_44
+  - first:
+      213: 1843269624667640296
+    second: Earth Slime run_45
+  - first:
+      213: -4037513999458845269
+    second: Earth Slime run_46
+  - first:
+      213: 3412828951973962500
+    second: Earth Slime run_47
+  - first:
+      213: 2807922747618337793
+    second: Earth Slime run_48
+  - first:
+      213: -75326948483471488
+    second: Earth Slime run_49
+  - first:
+      213: 4555169001018278412
+    second: Earth Slime run_50
+  - first:
+      213: -4992350520845637156
+    second: Earth Slime run_51
+  - first:
+      213: 3193519034893837612
+    second: Earth Slime run_52
+  - first:
+      213: -4992354896154579025
+    second: Earth Slime run_53
+  - first:
+      213: -336544487731319857
+    second: Earth Slime run_54
+  - first:
+      213: 4912498223360354658
+    second: Earth Slime run_55
+  - first:
+      213: -8943905238159280406
+    second: Earth Slime run_56
+  - first:
+      213: -9142590784200063128
+    second: Earth Slime run_57
+  - first:
+      213: 4473641477272985691
+    second: Earth Slime run_58
+  - first:
+      213: -4214959471283566549
+    second: Earth Slime run_59
+  - first:
+      213: -4272324293727383079
+    second: Earth Slime run_60
+  - first:
+      213: 4183569283971601913
+    second: Earth Slime run_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Slime run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71275ef1e3f880b40800000000000000
+      internalID: 5406728849644155415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426acf6c25447f70800000000000000
+      internalID: 9184041597271695937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5fa412aa9aa410800000000000000
+      internalID: 1489172647721786039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aced34213e78930800000000000000
+      internalID: 4145531649605421582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68adc66acb4e6f3f0800000000000000
+      internalID: -867254379325105530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115721df04fb58030800000000000000
+      internalID: 3496410971567715601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba65d32af8f7f14f0800000000000000
+      internalID: -855825149298125141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331ad15daff0b1740800000000000000
+      internalID: 5123706571055800627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50de976db248cb2d0800000000000000
+      internalID: -3261586706306306811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d470ecaf9aaaeb0800000000000000
+      internalID: -4707763565798929098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014a1df8ab1e2e2c0800000000000000
+      internalID: -4403709294221876208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699392d28a9d881e0800000000000000
+      internalID: -2195265502007707242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d3774bb0ec4a00800000000000000
+      internalID: 742215133571567631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402dda0e399b99c0800000000000000
+      internalID: -3919370558946598847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc1c6a827aa6e70800000000000000
+      internalID: 9109276989348498815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1233deda7b5eab90800000000000000
+      internalID: -7228739768600546790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34da3d52e4ee990800000000000000
+      internalID: -7354855217077337107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a808dd3db768f6ea0800000000000000
+      internalID: -5877331122301599606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4c20724564e0f0800000000000000
+      internalID: -1088633873892618298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee49c98e49399aa0800000000000000
+      internalID: -6153824406343168286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092973d989505040800000000000000
+      internalID: 4634302465057564934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776fff8e613410450800000000000000
+      internalID: 6053193139840087671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87b26eeb7a71bf20800000000000000
+      internalID: 3436662663359412108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabf484c1f8b7db20800000000000000
+      internalID: 3159197012147370924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d87d49b959e840800000000000000
+      internalID: 5253829092707980612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7b0272dac16380800000000000000
+      internalID: -8979673176794760255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a76e43260668300800000000000000
+      internalID: 253996403903593099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7e3a3c454b32bb0800000000000000
+      internalID: -4961924088279603251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392cec6d4041cb170800000000000000
+      internalID: 8195447432923759251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a110fa3871bb1a900800000000000000
+      internalID: 694041527259693338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c891430f27e802790800000000000000
+      internalID: -7556883550420330100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Slime run_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692244d29f7ec3d30800000000000000
+      internalID: 4412656792308556438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5ccd805e50010240aeaf5e342bf4568
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Earth Slime run_0: 5406728849644155415
+      Earth Slime run_1: 9184041597271695937
+      Earth Slime run_10: -4403709294221876208
+      Earth Slime run_11: -2195265502007707242
+      Earth Slime run_12: 742215133571567631
+      Earth Slime run_13: -3919370558946598847
+      Earth Slime run_14: 9109276989348498815
+      Earth Slime run_15: -7228739768600546790
+      Earth Slime run_16: -7354855217077337107
+      Earth Slime run_17: -5877331122301599606
+      Earth Slime run_18: -1088633873892618298
+      Earth Slime run_19: -6153824406343168286
+      Earth Slime run_2: 1489172647721786039
+      Earth Slime run_20: 4634302465057564934
+      Earth Slime run_21: 6053193139840087671
+      Earth Slime run_22: 3436662663359412108
+      Earth Slime run_23: 3159197012147370924
+      Earth Slime run_24: 5253829092707980612
+      Earth Slime run_25: -8979673176794760255
+      Earth Slime run_26: 253996403903593099
+      Earth Slime run_27: -4961924088279603251
+      Earth Slime run_28: 8195447432923759251
+      Earth Slime run_29: 694041527259693338
+      Earth Slime run_3: 4145531649605421582
+      Earth Slime run_30: -7556883550420330100
+      Earth Slime run_31: 4412656792308556438
+      Earth Slime run_4: -867254379325105530
+      Earth Slime run_5: 3496410971567715601
+      Earth Slime run_6: -855825149298125141
+      Earth Slime run_7: 5123706571055800627
+      Earth Slime run_8: -3261586706306306811
+      Earth Slime run_9: -4707763565798929098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

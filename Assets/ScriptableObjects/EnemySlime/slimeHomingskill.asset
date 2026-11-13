@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: slimeHomingskill
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: 
+  icon: {fileID: 0}
+  desc: 
+  element: 3
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 8242146440686338139
+  references:
+    version: 2
+    RefIds:
+    - rid: 8242146440686338139
+      type: {class: SkillProjectile_Vary, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 1
+        charge: 1
+        castTime: 0.5
+        aniTime: 1
+        statusChance: 0.1
+        damageTypes: 02000000
+        damage: 5
+        projSpeed: 15
+        duration: 1
+        pierce: 1
+        followthrough: 1
+        hitCD: 0
+        attackPrefab: {fileID: 2804753324522376216, guid: f499fe8491cefb049837d8ab7c902e5d, type: 3}
+        minDistance: 0.5
+        maxDistance: 0.5
+        projCount: 1
+        maxSpreadAngle: 90
+        baseAngleInterval: 15
+        knockback: 0
+        angleVariance: 15

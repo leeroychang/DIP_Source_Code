@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 560b4113807dd6a4f9cd3c405dbebe6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - dummyData: {instanceID: 0}
+  - gameUI: {instanceID: 0}
+  - proximityPanel: {instanceID: 0}
+  - deathPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

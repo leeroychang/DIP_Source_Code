@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f67ce15cbde904aa73b04ad0217423, type: 3}
+  m_Name: BossBody
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  baseHP: 5000
+  baseATK: 0
+  baseDEF: 70
+  baseSPD: 0
+  _xp: 0
+  baseSkills:
+  - {fileID: 11400000, guid: 5be501419d41245dba96a883cb5d0f46, type: 2}
+  _size: 12
+  _offset: {x: 0, y: 0}
+  idle:
+  - {fileID: -6248741079362886434, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: 2287940250583960180, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: 4935984790844978548, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: -670527314, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: -1611531874, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: -952190269, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: -1816279929, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  - {fileID: -255407293, guid: df4219dc312357c44ac825a7f1171ecf, type: 3}
+  move: []
+  attack1: []
+  attack2: []
+  hurt: []
+  down: []
+  framesPerSec: 4
+  aniDir: 0
+  animator: {fileID: 22100000, guid: 385f0b27eb03f4b2aa38f82f9c8349f9, type: 2}

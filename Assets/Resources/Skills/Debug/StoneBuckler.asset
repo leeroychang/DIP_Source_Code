@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: StoneBuckler
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: StoneBuckler
+  icon: {fileID: 1271784341, guid: 73b6de5be46d41c4480992b2e079ce9a, type: 3}
+  desc: Channel:\nProtect yourself with a shield and smack enemies after.
+  element: 2
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 8242146313067561035
+  references:
+    version: 2
+    RefIds:
+    - rid: 8242146313067561035
+      type: {class: SkillChannel_Block, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 8
+        charge: 1
+        castTime: 0
+        aniTime: 0
+        statusChance: 1
+        damageTypes: 
+        castData: {fileID: 11400000, guid: 723a9b50efaa374459838a86309d9136, type: 2}
+        duration: 3
+        interval: 0
+        blockRatio: 0.8
+        parryDuration: 0.5
+        intervalMulti: 0.1
+        maxMulti: 1
+        BlockPrefab: {fileID: 7832629677847965995, guid: d63a423a973cc2241a925a80ae33f5b8, type: 3}

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: fa553aa3dd61fd84b873d50f09237b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3190870587951394874
+    second: Spearrrrrrrr_0
+  - first:
+      213: 1046938766506946055
+    second: Spearrrrrrrr_1
+  - first:
+      213: 6865136502419585346
+    second: Spearrrrrrrr_2
+  - first:
+      213: -6388368840191334271
+    second: Spearrrrrrrr_3
+  - first:
+      213: -6608068579232712970
+    second: Spearrrrrrrr_4
+  - first:
+      213: -3903205333290409152
+    second: Spearrrrrrrr_5
+  - first:
+      213: 2919662848652725359
+    second: Spearrrrrrrr_6
+  - first:
+      213: -4584833363764874307
+    second: Spearrrrrrrr_7
+  - first:
+      213: -4025492506648520432
+    second: Spearrrrrrrr_8
+  - first:
+      213: -1029775077879811052
+    second: Spearrrrrrrr_9
+  - first:
+      213: 2213790948682720360
+    second: Spearrrrrrrr_10
+  - first:
+      213: 1097748669133570604
+    second: Spearrrrrrrr_11
+  - first:
+      213: -179208215186797306
+    second: Spearrrrrrrr_12
+  - first:
+      213: 3771608674857267423
+    second: Spearrrrrrrr_13
+  - first:
+      213: -4917314156865785647
+    second: Spearrrrrrrr_14
+  - first:
+      213: -6711006821814347390
+    second: Spearrrrrrrr_15
+  - first:
+      213: -2893392466485838623
+    second: Spearrrrrrrr_16
+  - first:
+      213: 755734495847162219
+    second: Spearrrrrrrr_17
+  - first:
+      213: -4322878603608887096
+    second: Spearrrrrrrr_18
+  - first:
+      213: -6638293004206989622
+    second: Spearrrrrrrr_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spearrrrrrrr_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4ae03b10c7b3d0800000000000000
+      internalID: -3190870587951394874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 307
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e6b3fd249778e00800000000000000
+      internalID: 1046938766506946055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 307
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2497941a64dd54f50800000000000000
+      internalID: 6865136502419585346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 127
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a83a0364f757a0800000000000000
+      internalID: -6388368840191334271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 179
+        width: 127
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f96363ac6b44a0800000000000000
+      internalID: -6608068579232712970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 187
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a0dfed6705d9c0800000000000000
+      internalID: -3903205333290409152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 187
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc9dd44e9b48820800000000000000
+      internalID: 2919662848652725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db37f6ed8566f50c0800000000000000
+      internalID: -4584833363764874307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 187
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d737a4e39228c0800000000000000
+      internalID: -4025492506648520432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147c6cc50185b1f0800000000000000
+      internalID: -1029775077879811052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 187
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864653f7327f8be10800000000000000
+      internalID: 2213790948682720360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 187
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c224d54399cfb3f00800000000000000
+      internalID: 1097748669133570604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d85f8e313538df0800000000000000
+      internalID: -179208215186797306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd036a06b12775430800000000000000
+      internalID: 3771608674857267423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 179
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f30fc3d032cbb0800000000000000
+      internalID: -4917314156865785647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 190
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289588c1ad6bdd2a0800000000000000
+      internalID: -6711006821814347390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 187
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf15fa1ea98d7d0800000000000000
+      internalID: -2893392466485838623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61aa791588ec7a00800000000000000
+      internalID: 755734495847162219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c071c840dc0204c0800000000000000
+      internalID: -4322878603608887096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearrrrrrrr_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace18411fab00e3a0800000000000000
+      internalID: -6638293004206989622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spearrrrrrrr_0: -3190870587951394874
+      Spearrrrrrrr_1: 1046938766506946055
+      Spearrrrrrrr_10: 2213790948682720360
+      Spearrrrrrrr_11: 1097748669133570604
+      Spearrrrrrrr_12: -179208215186797306
+      Spearrrrrrrr_13: 3771608674857267423
+      Spearrrrrrrr_14: -4917314156865785647
+      Spearrrrrrrr_15: -6711006821814347390
+      Spearrrrrrrr_16: -2893392466485838623
+      Spearrrrrrrr_17: 755734495847162219
+      Spearrrrrrrr_18: -4322878603608887096
+      Spearrrrrrrr_19: -6638293004206989622
+      Spearrrrrrrr_2: 6865136502419585346
+      Spearrrrrrrr_3: -6388368840191334271
+      Spearrrrrrrr_4: -6608068579232712970
+      Spearrrrrrrr_5: -3903205333290409152
+      Spearrrrrrrr_6: 2919662848652725359
+      Spearrrrrrrr_7: -4584833363764874307
+      Spearrrrrrrr_8: -4025492506648520432
+      Spearrrrrrrr_9: -1029775077879811052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

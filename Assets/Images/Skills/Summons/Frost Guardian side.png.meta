@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 779f2c3b6059a24458b127b29a62a1e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7317575824163117869
+    second: Frost Guardian side_0
+  - first:
+      213: 8966345378161927736
+    second: Frost Guardian side_1
+  - first:
+      213: -7730793565992240276
+    second: Frost Guardian side_2
+  - first:
+      213: 7176691310824256834
+    second: Frost Guardian side_3
+  - first:
+      213: 7035732226000655439
+    second: Frost Guardian side_4
+  - first:
+      213: -4670586494789243029
+    second: Frost Guardian side_5
+  - first:
+      213: 7951707995872971981
+    second: Frost Guardian side_6
+  - first:
+      213: -7200274698904776011
+    second: Frost Guardian side_7
+  - first:
+      213: -6877519594827956937
+    second: Frost Guardian side_8
+  - first:
+      213: 5638381683559327381
+    second: Frost Guardian side_9
+  - first:
+      213: -1809087032352241834
+    second: Frost Guardian side_10
+  - first:
+      213: -8827875298350004878
+    second: Frost Guardian side_11
+  - first:
+      213: -403649619836878507
+    second: Frost Guardian side_12
+  - first:
+      213: 763011468802362520
+    second: Frost Guardian side_13
+  - first:
+      213: -8567794159092644879
+    second: Frost Guardian side_14
+  - first:
+      213: 3055721261761305761
+    second: Frost Guardian side_15
+  - first:
+      213: 4540432881556508167
+    second: Frost Guardian side_16
+  - first:
+      213: -277546133121959945
+    second: Frost Guardian side_17
+  - first:
+      213: 150135328380721694
+    second: Frost Guardian side_18
+  - first:
+      213: 1559279416944501475
+    second: Frost Guardian side_19
+  - first:
+      213: -1642270403426897199
+    second: Frost Guardian side_20
+  - first:
+      213: -2126122927446876617
+    second: Frost Guardian side_21
+  - first:
+      213: 1987294106068568873
+    second: Frost Guardian side_22
+  - first:
+      213: 8024444322672799407
+    second: Frost Guardian side_23
+  - first:
+      213: -1396914130417720644
+    second: Frost Guardian side_24
+  - first:
+      213: -4285433510498236113
+    second: Frost Guardian side_25
+  - first:
+      213: -4620496448937050036
+    second: Frost Guardian side_26
+  - first:
+      213: -1508139556299338442
+    second: Frost Guardian side_27
+  - first:
+      213: -385060561506967351
+    second: Frost Guardian side_28
+  - first:
+      213: 1847164584425785468
+    second: Frost Guardian side_29
+  - first:
+      213: 2394597691064324510
+    second: Frost Guardian side_30
+  - first:
+      213: 7509272402379589285
+    second: Frost Guardian side_31
+  - first:
+      213: -7328536570261528724
+    second: Frost Guardian side_32
+  - first:
+      213: 4689181938494745631
+    second: Frost Guardian side_33
+  - first:
+      213: 7812419840597239908
+    second: Frost Guardian side_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frost Guardian side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b9a3021704d8560800000000000000
+      internalID: 7317575824163117869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836aece9d9bde6c70800000000000000
+      internalID: 8966345378161927736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b38231634b6b490800000000000000
+      internalID: -7730793565992240276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ff4439bab89360800000000000000
+      internalID: 7176691310824256834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f449981ce21f3a160800000000000000
+      internalID: 7035732226000655439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa95d245ebe2fb0800000000000000
+      internalID: -4670586494789243029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc44a3da442a5e60800000000000000
+      internalID: 7951707995872971981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25c8e5f4c731c90800000000000000
+      internalID: -7200274698904776011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dbd7efd542e80a0800000000000000
+      internalID: -6877519594827956937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frost Guardian side_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966f9c844e8f3e40800000000000000
+      internalID: 5638381683559327381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b30c026ba743f984e815b61a92770ffa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Frost Guardian side_0: 7317575824163117869
+      Frost Guardian side_1: 8966345378161927736
+      Frost Guardian side_2: -7730793565992240276
+      Frost Guardian side_3: 7176691310824256834
+      Frost Guardian side_4: 7035732226000655439
+      Frost Guardian side_5: -4670586494789243029
+      Frost Guardian side_6: 7951707995872971981
+      Frost Guardian side_7: -7200274698904776011
+      Frost Guardian side_8: -6877519594827956937
+      Frost Guardian side_9: 5638381683559327381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

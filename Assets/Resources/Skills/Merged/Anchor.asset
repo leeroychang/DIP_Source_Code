@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e69857daec75f24ba21373a53db3031, type: 3}
+  m_Name: Anchor
+  m_EditorClassIdentifier: Assembly-CSharp::MergedSkillData
+  displayName: Anchor
+  icon: {fileID: 21300000, guid: 109b00fac9258d2438a0d1e5d9ad0c62, type: 3}
+  desc: Throws a Anchor that Hooks Enemies and Pulls Towards Player
+  element: 2
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 8659604515555377152
+  MergeSkill1: {fileID: 11400000, guid: 8902904affd39e14a8b2d168eadb7b0d, type: 2}
+  MergeSkill2: {fileID: 11400000, guid: c20e3ae60fd37e54bb5814fc80ce82ed, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8659604515555377152
+      type: {class: AnchorSkillType, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 10
+        charge: 1
+        castTime: 0
+        aniTime: 1
+        statusChance: 1
+        damageTypes: 01000000
+        anchorPrefab: {fileID: 3900115665276212560, guid: 5b9a0eaedc147dd44ab100dec6076dc9, type: 3}
+        throwAnimationClip: {fileID: 0}
+        flySpeed: 18
+        pullSpeed: 20
+        maxDistance: 10
+        spawnOffset: 1
+        damage: 10
+        aimAtTarget: 1
+        useUpAsFacing: 0

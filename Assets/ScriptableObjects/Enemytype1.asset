@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0748bd60728074a0081ce6eb818a8a00, type: 3}
+  m_Name: Enemytype1
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpawnConfig
+  entityData: {fileID: 11400000, guid: f4d85b15a0d046d41b3c483127e2b784, type: 2}
+  prefab: {fileID: 2382477214994668394, guid: 2a284732f897d8c43b9e5693b8cfd9e6, type: 3}
+  poolSize: 10
+  spawnWeight: 100
+  exclusiveTileIndex: -1

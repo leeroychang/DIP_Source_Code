@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: d2a25814576138246a6d995ff075361e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3548349742522733861
+    second: BasicSlimeAttack_0
+  - first:
+      213: -4583867054839304802
+    second: BasicSlimeAttack_1
+  - first:
+      213: -712840159585789339
+    second: BasicSlimeAttack_2
+  - first:
+      213: -3916410763648730783
+    second: BasicSlimeAttack_3
+  - first:
+      213: 7542886054622303029
+    second: BasicSlimeAttack_4
+  - first:
+      213: -4965004191356115756
+    second: BasicSlimeAttack_5
+  - first:
+      213: 4035227915960099202
+    second: BasicSlimeAttack_6
+  - first:
+      213: 6471291897965347325
+    second: BasicSlimeAttack_7
+  - first:
+      213: 833868817890696223
+    second: BasicSlimeAttack_8
+  - first:
+      213: 3763503486612691340
+    second: BasicSlimeAttack_9
+  - first:
+      213: 3400609796992304010
+    second: BasicSlimeAttack_10
+  - first:
+      213: -9035372184288213160
+    second: BasicSlimeAttack_11
+  - first:
+      213: -4626033050190617793
+    second: BasicSlimeAttack_12
+  - first:
+      213: 6950739081984392202
+    second: BasicSlimeAttack_13
+  - first:
+      213: 4466808187855335411
+    second: BasicSlimeAttack_14
+  - first:
+      213: 8179251035858137265
+    second: BasicSlimeAttack_15
+  - first:
+      213: -3137826663224843518
+    second: BasicSlimeAttack_16
+  - first:
+      213: 1024193824355149272
+    second: BasicSlimeAttack_17
+  - first:
+      213: -6076337458017316235
+    second: BasicSlimeAttack_18
+  - first:
+      213: 3586714996264029219
+    second: BasicSlimeAttack_19
+  - first:
+      213: -4861922374065856433
+    second: BasicSlimeAttack_20
+  - first:
+      213: 8096200043455387272
+    second: BasicSlimeAttack_21
+  - first:
+      213: 3555869716875922688
+    second: BasicSlimeAttack_22
+  - first:
+      213: 5377459087819259998
+    second: BasicSlimeAttack_23
+  - first:
+      213: -4384737732162904975
+    second: BasicSlimeAttack_24
+  - first:
+      213: 4864027138586556336
+    second: BasicSlimeAttack_25
+  - first:
+      213: 198546795053868428
+    second: BasicSlimeAttack_26
+  - first:
+      213: 66267415403719538
+    second: BasicSlimeAttack_27
+  - first:
+      213: 2932127633112071190
+    second: BasicSlimeAttack_28
+  - first:
+      213: 8831409471071782449
+    second: BasicSlimeAttack_29
+  - first:
+      213: -4804389544786185317
+    second: BasicSlimeAttack_30
+  - first:
+      213: 7369852487592625186
+    second: BasicSlimeAttack_31
+  - first:
+      213: 116208487552683107
+    second: BasicSlimeAttack_32
+  - first:
+      213: 1942367088907783151
+    second: BasicSlimeAttack_33
+  - first:
+      213: -6652306936421736739
+    second: BasicSlimeAttack_34
+  - first:
+      213: -8428838920851857644
+    second: BasicSlimeAttack_35
+  - first:
+      213: 3089793853278231384
+    second: BasicSlimeAttack_36
+  - first:
+      213: 3533506125680952794
+    second: BasicSlimeAttack_37
+  - first:
+      213: 3899487688982366457
+    second: BasicSlimeAttack_38
+  - first:
+      213: 5184107145183769207
+    second: BasicSlimeAttack_39
+  - first:
+      213: -1868332377825307420
+    second: BasicSlimeAttack_40
+  - first:
+      213: 9014482718426522024
+    second: BasicSlimeAttack_41
+  - first:
+      213: 1275767157511217119
+    second: BasicSlimeAttack_42
+  - first:
+      213: -3860500880309667847
+    second: BasicSlimeAttack_43
+  - first:
+      213: 2474875241274827210
+    second: BasicSlimeAttack_44
+  - first:
+      213: -3226957145754150692
+    second: BasicSlimeAttack_45
+  - first:
+      213: 4589195562298749997
+    second: BasicSlimeAttack_46
+  - first:
+      213: -2249983241452212364
+    second: BasicSlimeAttack_47
+  - first:
+      213: -8297511146253221940
+    second: BasicSlimeAttack_48
+  - first:
+      213: -5649836997296372032
+    second: BasicSlimeAttack_49
+  - first:
+      213: 811629186959709705
+    second: BasicSlimeAttack_50
+  - first:
+      213: -6387994684521921711
+    second: BasicSlimeAttack_51
+  - first:
+      213: 3691188945763234986
+    second: BasicSlimeAttack_52
+  - first:
+      213: -3702950342702779635
+    second: BasicSlimeAttack_53
+  - first:
+      213: -1154213335763645412
+    second: BasicSlimeAttack_54
+  - first:
+      213: 4378734129234663448
+    second: BasicSlimeAttack_55
+  - first:
+      213: -5644796392984449828
+    second: BasicSlimeAttack_56
+  - first:
+      213: 4209176050377242016
+    second: BasicSlimeAttack_57
+  - first:
+      213: -6239491728952419219
+    second: BasicSlimeAttack_58
+  - first:
+      213: -5786494829106485359
+    second: BasicSlimeAttack_59
+  - first:
+      213: -1288073226858464152
+    second: BasicSlimeAttack_60
+  - first:
+      213: 6502700427699289364
+    second: BasicSlimeAttack_61
+  - first:
+      213: -3566945747877308832
+    second: BasicSlimeAttack_62
+  - first:
+      213: -2791447683311632363
+    second: BasicSlimeAttack_63
+  - first:
+      213: 2648037693034279534
+    second: BasicSlimeAttack_64
+  - first:
+      213: 5969985078639250239
+    second: BasicSlimeAttack_65
+  - first:
+      213: -4487169268083903423
+    second: BasicSlimeAttack_66
+  - first:
+      213: 4662851536283263072
+    second: BasicSlimeAttack_67
+  - first:
+      213: 6423320705940058193
+    second: BasicSlimeAttack_68
+  - first:
+      213: -6220558763253616214
+    second: BasicSlimeAttack_69
+  - first:
+      213: 2328417099101234110
+    second: BasicSlimeAttack_70
+  - first:
+      213: -7046334840433408189
+    second: BasicSlimeAttack_71
+  - first:
+      213: 2017101101345319489
+    second: BasicSlimeAttack_72
+  - first:
+      213: 2018347808350408364
+    second: BasicSlimeAttack_73
+  - first:
+      213: -268914218447442879
+    second: BasicSlimeAttack_74
+  - first:
+      213: -4643993647962492306
+    second: BasicSlimeAttack_75
+  - first:
+      213: -769197197702334955
+    second: BasicSlimeAttack_76
+  - first:
+      213: 2650226875580974395
+    second: BasicSlimeAttack_77
+  - first:
+      213: -7667902763143783892
+    second: BasicSlimeAttack_78
+  - first:
+      213: -8900374030125570346
+    second: BasicSlimeAttack_79
+  - first:
+      213: -372426683371035369
+    second: BasicSlimeAttack_80
+  - first:
+      213: -3493736608629156876
+    second: BasicSlimeAttack_81
+  - first:
+      213: -3417505081815162345
+    second: BasicSlimeAttack_82
+  - first:
+      213: -1653123634391901865
+    second: BasicSlimeAttack_83
+  - first:
+      213: -6807035072480825081
+    second: BasicSlimeAttack_84
+  - first:
+      213: 290512513977832706
+    second: BasicSlimeAttack_85
+  - first:
+      213: 3285223755387198767
+    second: BasicSlimeAttack_86
+  - first:
+      213: 3100946895472272382
+    second: BasicSlimeAttack_87
+  - first:
+      213: 6676924208116757670
+    second: BasicSlimeAttack_88
+  - first:
+      213: 1084483399021803948
+    second: BasicSlimeAttack_89
+  - first:
+      213: 4670175237360132671
+    second: BasicSlimeAttack_90
+  - first:
+      213: -266361703467898433
+    second: BasicSlimeAttack_91
+  - first:
+      213: 3913734663083933940
+    second: BasicSlimeAttack_92
+  - first:
+      213: 898630171082216331
+    second: BasicSlimeAttack_93
+  - first:
+      213: 5568690888317691290
+    second: BasicSlimeAttack_94
+  - first:
+      213: -3378493319163761895
+    second: BasicSlimeAttack_95
+  - first:
+      213: 2906688263316424823
+    second: BasicSlimeAttack_96
+  - first:
+      213: 4287175295136920726
+    second: BasicSlimeAttack_97
+  - first:
+      213: -9141794263450538389
+    second: BasicSlimeAttack_98
+  - first:
+      213: 1003439127912929458
+    second: BasicSlimeAttack_99
+  - first:
+      213: -3184101190573196525
+    second: BasicSlimeAttack_100
+  - first:
+      213: 4835375892348145349
+    second: BasicSlimeAttack_101
+  - first:
+      213: -793367432918217947
+    second: BasicSlimeAttack_102
+  - first:
+      213: -2255299251235534357
+    second: BasicSlimeAttack_103
+  - first:
+      213: 6471464037637808426
+    second: BasicSlimeAttack_104
+  - first:
+      213: -7583149427936747134
+    second: BasicSlimeAttack_105
+  - first:
+      213: -5826114991620623414
+    second: BasicSlimeAttack_106
+  - first:
+      213: -1762025786607688788
+    second: BasicSlimeAttack_107
+  - first:
+      213: -6346891849817728730
+    second: BasicSlimeAttack_108
+  - first:
+      213: -8084850468531203130
+    second: BasicSlimeAttack_109
+  - first:
+      213: -9175307198228576922
+    second: BasicSlimeAttack_110
+  - first:
+      213: 1395894126292971703
+    second: BasicSlimeAttack_111
+  - first:
+      213: -8118364642918000967
+    second: BasicSlimeAttack_112
+  - first:
+      213: 6806981892129277980
+    second: BasicSlimeAttack_113
+  - first:
+      213: -5918671221590330520
+    second: BasicSlimeAttack_114
+  - first:
+      213: 7906257564687166866
+    second: BasicSlimeAttack_115
+  - first:
+      213: -3491911470600659163
+    second: BasicSlimeAttack_116
+  - first:
+      213: -2063209802525465393
+    second: BasicSlimeAttack_117
+  - first:
+      213: -800650942932373638
+    second: BasicSlimeAttack_118
+  - first:
+      213: -8753412957890912937
+    second: BasicSlimeAttack_119
+  - first:
+      213: -3782504237563212175
+    second: BasicSlimeAttack_120
+  - first:
+      213: -7447671122065152473
+    second: BasicSlimeAttack_121
+  - first:
+      213: 4888619504265946319
+    second: BasicSlimeAttack_122
+  - first:
+      213: -2793642695816831588
+    second: BasicSlimeAttack_123
+  - first:
+      213: -6578238199377565842
+    second: BasicSlimeAttack_124
+  - first:
+      213: -731581102621625052
+    second: BasicSlimeAttack_125
+  - first:
+      213: 196954238770733248
+    second: BasicSlimeAttack_126
+  - first:
+      213: -4152252717385843544
+    second: BasicSlimeAttack_127
+  - first:
+      213: 578913375503251753
+    second: BasicSlimeAttack_128
+  - first:
+      213: 4975251005066253520
+    second: BasicSlimeAttack_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasicSlimeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259ae57a454e3130800000000000000
+      internalID: 3548349742522733861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9defa23335d260c0800000000000000
+      internalID: -4583867054839304802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9142d6ab7b16f0800000000000000
+      internalID: -712840159585789339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697336192d16a9c0800000000000000
+      internalID: -3916410763648730783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533920b17e6bda860800000000000000
+      internalID: 7542886054622303029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4a4e16ef2c81bb0800000000000000
+      internalID: -4965004191356115756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281aa86f862000830800000000000000
+      internalID: 4035227915960099202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df18610e1b5aec950800000000000000
+      internalID: 6471291897965347325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c56a7954f729b00800000000000000
+      internalID: 833868817890696223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895e7e2b76aa3430800000000000000
+      internalID: 3763503486612691340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838079d794613f20800000000000000
+      internalID: 3400609796992304010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574e0eaed8eb9280800000000000000
+      internalID: -9035372184288213160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33eb2c53770dcfb0800000000000000
+      internalID: -4626033050190617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cba145e5cf57060800000000000000
+      internalID: 6950739081984392202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff6ce4716a4dfd30800000000000000
+      internalID: 4466808187855335411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0f1194b79828170800000000000000
+      internalID: 8179251035858137265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ebb356433474d0800000000000000
+      internalID: -3137826663224843518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d566d95bdaa63e00800000000000000
+      internalID: 1024193824355149272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5725a7796438caba0800000000000000
+      internalID: -6076337458017316235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c42ee294296c130800000000000000
+      internalID: 3586714996264029219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e7404c5bf68cb0800000000000000
+      internalID: -4861922374065856433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88619a44b0b7b5070800000000000000
+      internalID: 8096200043455387272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d45fdeaacf85130800000000000000
+      internalID: 3555869716875922688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50c9a3ac8290aa40800000000000000
+      internalID: 5377459087819259998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c9d2193484623c0800000000000000
+      internalID: -4384737732162904975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7bf4d69ee708340800000000000000
+      internalID: 4864027138586556336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c856a76124161c200800000000000000
+      internalID: 198546795053868428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b625bfcdd6be000800000000000000
+      internalID: 66267415403719538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c70c71c8201b820800000000000000
+      internalID: 2932127633112071190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13601458f187f8a70800000000000000
+      internalID: 8831409471071782449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b933b6ce921635db0800000000000000
+      internalID: -4804389544786185317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ccf15ac9f64660800000000000000
+      internalID: 7369852487592625186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c8674f00bdc9100800000000000000
+      internalID: 116208487552683107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb02c5839ca4fa10800000000000000
+      internalID: 1942367088907783151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde17b536124ea3a0800000000000000
+      internalID: -6652306936421736739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f53adc8afb60b80800000000000000
+      internalID: -8428838920851857644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b95dd932721ea20800000000000000
+      internalID: 3089793853278231384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad541e89919890130800000000000000
+      internalID: 3533506125680952794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f88dcb8463cd1630800000000000000
+      internalID: 3899487688982366457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicSlimeAttack_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723e326bf5a1f740800000000000000
+      internalID: 5184107145183769207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3dcae4aa611944a4f838b987b0f6d5e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BasicSlimeAttack_0: 3548349742522733861
+      BasicSlimeAttack_1: -4583867054839304802
+      BasicSlimeAttack_10: 3400609796992304010
+      BasicSlimeAttack_11: -9035372184288213160
+      BasicSlimeAttack_12: -4626033050190617793
+      BasicSlimeAttack_13: 6950739081984392202
+      BasicSlimeAttack_14: 4466808187855335411
+      BasicSlimeAttack_15: 8179251035858137265
+      BasicSlimeAttack_16: -3137826663224843518
+      BasicSlimeAttack_17: 1024193824355149272
+      BasicSlimeAttack_18: -6076337458017316235
+      BasicSlimeAttack_19: 3586714996264029219
+      BasicSlimeAttack_2: -712840159585789339
+      BasicSlimeAttack_20: -4861922374065856433
+      BasicSlimeAttack_21: 8096200043455387272
+      BasicSlimeAttack_22: 3555869716875922688
+      BasicSlimeAttack_23: 5377459087819259998
+      BasicSlimeAttack_24: -4384737732162904975
+      BasicSlimeAttack_25: 4864027138586556336
+      BasicSlimeAttack_26: 198546795053868428
+      BasicSlimeAttack_27: 66267415403719538
+      BasicSlimeAttack_28: 2932127633112071190
+      BasicSlimeAttack_29: 8831409471071782449
+      BasicSlimeAttack_3: -3916410763648730783
+      BasicSlimeAttack_30: -4804389544786185317
+      BasicSlimeAttack_31: 7369852487592625186
+      BasicSlimeAttack_32: 116208487552683107
+      BasicSlimeAttack_33: 1942367088907783151
+      BasicSlimeAttack_34: -6652306936421736739
+      BasicSlimeAttack_35: -8428838920851857644
+      BasicSlimeAttack_36: 3089793853278231384
+      BasicSlimeAttack_37: 3533506125680952794
+      BasicSlimeAttack_38: 3899487688982366457
+      BasicSlimeAttack_39: 5184107145183769207
+      BasicSlimeAttack_4: 7542886054622303029
+      BasicSlimeAttack_5: -4965004191356115756
+      BasicSlimeAttack_6: 4035227915960099202
+      BasicSlimeAttack_7: 6471291897965347325
+      BasicSlimeAttack_8: 833868817890696223
+      BasicSlimeAttack_9: 3763503486612691340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

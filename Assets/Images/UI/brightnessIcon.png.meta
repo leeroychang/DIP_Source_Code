@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 83ca9d217d38fa4489b6fc36d96a1a13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1107792471919966166
+    second: brightnessIcon_0
+  - first:
+      213: -3382054301536589533
+    second: brightnessIcon_1
+  - first:
+      213: 840746434731310735
+    second: brightnessIcon_2
+  - first:
+      213: -843271146394131026
+    second: brightnessIcon_3
+  - first:
+      213: -4371431563381244028
+    second: brightnessIcon_4
+  - first:
+      213: 4846403909364024011
+    second: brightnessIcon_5
+  - first:
+      213: -54143713577212293
+    second: brightnessIcon_6
+  - first:
+      213: -7330305061577949558
+    second: brightnessIcon_7
+  - first:
+      213: -7324179983760006158
+    second: brightnessIcon_8
+  - first:
+      213: -8467321475805592698
+    second: brightnessIcon_9
+  - first:
+      213: -8954916794979342977
+    second: brightnessIcon_10
+  - first:
+      213: -8903376255380061274
+    second: brightnessIcon_11
+  - first:
+      213: 8583982657369723824
+    second: brightnessIcon_12
+  - first:
+      213: -4935303678179971353
+    second: brightnessIcon_13
+  - first:
+      213: -1459561910730222211
+    second: brightnessIcon_14
+  - first:
+      213: -1967464706293081889
+    second: brightnessIcon_15
+  - first:
+      213: -3192314823862758469
+    second: brightnessIcon_16
+  - first:
+      213: -107363113291612132
+    second: brightnessIcon_17
+  - first:
+      213: 6328330400874180512
+    second: brightnessIcon_18
+  - first:
+      213: -9158911098964797358
+    second: brightnessIcon_19
+  - first:
+      213: -4417466482623277502
+    second: brightnessIcon_20
+  - first:
+      213: 8573357711696822066
+    second: brightnessIcon_21
+  - first:
+      213: -8247254975934991076
+    second: brightnessIcon_22
+  - first:
+      213: 798506318342633602
+    second: brightnessIcon_23
+  - first:
+      213: 3554082861558350606
+    second: brightnessIcon_24
+  - first:
+      213: -2687569160812382619
+    second: brightnessIcon_25
+  - first:
+      213: -8744100647269909152
+    second: brightnessIcon_26
+  - first:
+      213: 1208208695562564307
+    second: brightnessIcon_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brightnessIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cb5abd9450a0f0800000000000000
+      internalID: -1107792471919966166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brightnessIcon_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32964d918878011d0800000000000000
+      internalID: -3382054301536589533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brightnessIcon_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef55c8d6eeaab00800000000000000
+      internalID: 840746434731310735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brightnessIcon_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea567d53c591c44f0800000000000000
+      internalID: -843271146394131026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b16719e4dbca224db9ac1c5fdd9082a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      brightnessIcon_0: -1107792471919966166
+      brightnessIcon_1: -3382054301536589533
+      brightnessIcon_2: 840746434731310735
+      brightnessIcon_3: -843271146394131026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

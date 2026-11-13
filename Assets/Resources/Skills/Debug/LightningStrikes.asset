@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: LightningStrikes
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: Lightning Strikes
+  icon: {fileID: 1574418079, guid: 73b6de5be46d41c4480992b2e079ce9a, type: 3}
+  desc: Channel:\nHold to Charge. Conjour a spear of lightning, unleashing lightning
+    fast strikes.
+  element: 2
+  elementMerge: 0
+  altAtk: 0
+  _skillType:
+    rid: 4231924773625004103
+  references:
+    version: 2
+    RefIds:
+    - rid: 4231924773625004103
+      type: {class: SkillChannel_MultiCast, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 8
+        charge: 1
+        castTime: 0
+        aniTime: 1.5
+        statusChance: 0.5
+        damageTypes: 
+        castData: {fileID: 11400000, guid: 938db7a0b2a7164429c7693b6d77728d, type: 2}
+        duration: 1.5
+        interval: 0.25
+        blockRatio: 0
+        parryDuration: 0
+        intervalMulti: 1
+        maxMulti: 5
+        BlockPrefab: {fileID: 8778436776550869048, guid: bcff18447773769458087894cdf07908, type: 3}
+        castInterval: 0.1

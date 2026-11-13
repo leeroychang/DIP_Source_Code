@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 4fdc97d7e1f2e744b8951ca929fdd911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8839497456398566472
+    second: EarthSlimeAttack_0
+  - first:
+      213: -6285254321687473510
+    second: EarthSlimeAttack_1
+  - first:
+      213: 1031184459410091897
+    second: EarthSlimeAttack_2
+  - first:
+      213: -2664320108313535014
+    second: EarthSlimeAttack_3
+  - first:
+      213: -5629673064489702523
+    second: EarthSlimeAttack_4
+  - first:
+      213: 6319728167501498165
+    second: EarthSlimeAttack_5
+  - first:
+      213: -23406440410166857
+    second: EarthSlimeAttack_6
+  - first:
+      213: -7110323990509994059
+    second: EarthSlimeAttack_7
+  - first:
+      213: 83169131599235846
+    second: EarthSlimeAttack_8
+  - first:
+      213: -84710145983386325
+    second: EarthSlimeAttack_9
+  - first:
+      213: -7771348723135071286
+    second: EarthSlimeAttack_10
+  - first:
+      213: -798734905856100701
+    second: EarthSlimeAttack_11
+  - first:
+      213: -161183461252055252
+    second: EarthSlimeAttack_12
+  - first:
+      213: -6658977089134577553
+    second: EarthSlimeAttack_13
+  - first:
+      213: 1766088059773711603
+    second: EarthSlimeAttack_14
+  - first:
+      213: 8174539507203863095
+    second: EarthSlimeAttack_15
+  - first:
+      213: 2745666710683858636
+    second: EarthSlimeAttack_16
+  - first:
+      213: -8386267158696937573
+    second: EarthSlimeAttack_17
+  - first:
+      213: -7523180264855780765
+    second: EarthSlimeAttack_18
+  - first:
+      213: 8696605311905110208
+    second: EarthSlimeAttack_19
+  - first:
+      213: 9002732698411015197
+    second: EarthSlimeAttack_20
+  - first:
+      213: 2851794278505572564
+    second: EarthSlimeAttack_21
+  - first:
+      213: 4051464172124120276
+    second: EarthSlimeAttack_22
+  - first:
+      213: -1452627954961468282
+    second: EarthSlimeAttack_23
+  - first:
+      213: 5846395245259741160
+    second: EarthSlimeAttack_24
+  - first:
+      213: -6644643985035329725
+    second: EarthSlimeAttack_25
+  - first:
+      213: -9179207002505314507
+    second: EarthSlimeAttack_26
+  - first:
+      213: 8817625890786058556
+    second: EarthSlimeAttack_27
+  - first:
+      213: -6278778434218313498
+    second: EarthSlimeAttack_28
+  - first:
+      213: 498930281808568796
+    second: EarthSlimeAttack_29
+  - first:
+      213: 2772679126004988771
+    second: EarthSlimeAttack_30
+  - first:
+      213: 1937919844410802770
+    second: EarthSlimeAttack_31
+  - first:
+      213: -5769348366534735358
+    second: EarthSlimeAttack_32
+  - first:
+      213: 3207983882232320001
+    second: EarthSlimeAttack_33
+  - first:
+      213: -4289800448748077811
+    second: EarthSlimeAttack_34
+  - first:
+      213: 4349814989221392307
+    second: EarthSlimeAttack_35
+  - first:
+      213: -8409920878150217792
+    second: EarthSlimeAttack_36
+  - first:
+      213: -6222340238412516900
+    second: EarthSlimeAttack_37
+  - first:
+      213: 2845485092937536889
+    second: EarthSlimeAttack_38
+  - first:
+      213: 7743497119168766989
+    second: EarthSlimeAttack_39
+  - first:
+      213: -291285901624515491
+    second: EarthSlimeAttack_40
+  - first:
+      213: -6160123842253823614
+    second: EarthSlimeAttack_41
+  - first:
+      213: -7206562848674169489
+    second: EarthSlimeAttack_42
+  - first:
+      213: -4583182912768059145
+    second: EarthSlimeAttack_43
+  - first:
+      213: -3236876959133826795
+    second: EarthSlimeAttack_44
+  - first:
+      213: -6710174255898548686
+    second: EarthSlimeAttack_45
+  - first:
+      213: -1557988974251468863
+    second: EarthSlimeAttack_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthSlimeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf466a5ebc35580800000000000000
+      internalID: -8839497456398566472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9254d0ce7a46c8a0800000000000000
+      internalID: -6285254321687473510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97faa096dc08f4e00800000000000000
+      internalID: 1031184459410091897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add9a084afe660bd0800000000000000
+      internalID: -2664320108313535014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba185dc226fd1b0800000000000000
+      internalID: -5629673064489702523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53705f4f84f24b750800000000000000
+      internalID: 6319728167501498165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b945e967f7dcaff0800000000000000
+      internalID: -23406440410166857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb6b3b00e035d90800000000000000
+      internalID: -7110323990509994059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b004172e9772100800000000000000
+      internalID: 83169131599235846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de9cf229c03def0800000000000000
+      internalID: -84710145983386325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb39dbb28f962490800000000000000
+      internalID: -7771348723135071286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6fdb2c5d25ae4f0800000000000000
+      internalID: -798734905856100701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3768fe7c53cdf0800000000000000
+      internalID: -161183461252055252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f683ba24e9f8693a0800000000000000
+      internalID: -6658977089134577553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4fed4bbb7628810800000000000000
+      internalID: 1766088059773711603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73278490f5cc17170800000000000000
+      internalID: 8174539507203863095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc63de183519a1620800000000000000
+      internalID: 2745666710683858636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973856937efd9b80800000000000000
+      internalID: -8386267158696937573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ca0c986b489790800000000000000
+      internalID: -7523180264855780765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c811ef547c80b870800000000000000
+      internalID: 8696605311905110208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1590d0b120fc70800000000000000
+      internalID: 9002732698411015197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8e0de69cb939720800000000000000
+      internalID: 2851794278505572564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d42eafe231b93830800000000000000
+      internalID: 4051464172124120276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSlimeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68438b1429a37dbe0800000000000000
+      internalID: -1452627954961468282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6abf77bc4da104349bfdfa479ee4ab06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      EarthSlimeAttack_0: -8839497456398566472
+      EarthSlimeAttack_1: -6285254321687473510
+      EarthSlimeAttack_10: -7771348723135071286
+      EarthSlimeAttack_11: -798734905856100701
+      EarthSlimeAttack_12: -161183461252055252
+      EarthSlimeAttack_13: -6658977089134577553
+      EarthSlimeAttack_14: 1766088059773711603
+      EarthSlimeAttack_15: 8174539507203863095
+      EarthSlimeAttack_16: 2745666710683858636
+      EarthSlimeAttack_17: -8386267158696937573
+      EarthSlimeAttack_18: -7523180264855780765
+      EarthSlimeAttack_19: 8696605311905110208
+      EarthSlimeAttack_2: 1031184459410091897
+      EarthSlimeAttack_20: 9002732698411015197
+      EarthSlimeAttack_21: 2851794278505572564
+      EarthSlimeAttack_22: 4051464172124120276
+      EarthSlimeAttack_23: -1452627954961468282
+      EarthSlimeAttack_3: -2664320108313535014
+      EarthSlimeAttack_4: -5629673064489702523
+      EarthSlimeAttack_5: 6319728167501498165
+      EarthSlimeAttack_6: -23406440410166857
+      EarthSlimeAttack_7: -7110323990509994059
+      EarthSlimeAttack_8: 83169131599235846
+      EarthSlimeAttack_9: -84710145983386325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

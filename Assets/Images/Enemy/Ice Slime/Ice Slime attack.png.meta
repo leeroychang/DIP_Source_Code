@@ -1,0 +1,1437 @@
+fileFormatVersion: 2
+guid: 3ae68fb487161de4491a6031b751899e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176263905283573489
+    second: Ice Slime attack_0
+  - first:
+      213: -1883309480277574951
+    second: Ice Slime attack_1
+  - first:
+      213: -7522806095306114783
+    second: Ice Slime attack_2
+  - first:
+      213: 3538357994182288548
+    second: Ice Slime attack_3
+  - first:
+      213: -8764483371943091000
+    second: Ice Slime attack_4
+  - first:
+      213: -5033784794513258309
+    second: Ice Slime attack_5
+  - first:
+      213: 4495537625569026886
+    second: Ice Slime attack_6
+  - first:
+      213: -2602231126642558275
+    second: Ice Slime attack_7
+  - first:
+      213: -7387031575503210450
+    second: Ice Slime attack_8
+  - first:
+      213: -1197723537668523693
+    second: Ice Slime attack_9
+  - first:
+      213: 1596066777174590987
+    second: Ice Slime attack_10
+  - first:
+      213: -2020656640638688980
+    second: Ice Slime attack_11
+  - first:
+      213: 1479917664482771976
+    second: Ice Slime attack_12
+  - first:
+      213: 5903061673577207641
+    second: Ice Slime attack_13
+  - first:
+      213: -737867304733259939
+    second: Ice Slime attack_14
+  - first:
+      213: -4766567884462191049
+    second: Ice Slime attack_15
+  - first:
+      213: 936527680400359244
+    second: Ice Slime attack_16
+  - first:
+      213: 3963998350326947750
+    second: Ice Slime attack_17
+  - first:
+      213: 8764696399244443353
+    second: Ice Slime attack_18
+  - first:
+      213: -7940591452384491327
+    second: Ice Slime attack_19
+  - first:
+      213: -4384501644118590750
+    second: Ice Slime attack_20
+  - first:
+      213: 8415309904125422032
+    second: Ice Slime attack_21
+  - first:
+      213: -6814688960014180195
+    second: Ice Slime attack_22
+  - first:
+      213: 757460215600322759
+    second: Ice Slime attack_23
+  - first:
+      213: -212060735733075042
+    second: Ice Slime attack_24
+  - first:
+      213: 2843761597336332107
+    second: Ice Slime attack_25
+  - first:
+      213: -8376532722868029062
+    second: Ice Slime attack_26
+  - first:
+      213: 2385826328610479790
+    second: Ice Slime attack_27
+  - first:
+      213: 6142763776566643673
+    second: Ice Slime attack_28
+  - first:
+      213: 2982531777488556749
+    second: Ice Slime attack_29
+  - first:
+      213: 382158802014271125
+    second: Ice Slime attack_30
+  - first:
+      213: 9089049999174910429
+    second: Ice Slime attack_31
+  - first:
+      213: -8133459878914334640
+    second: Ice Slime attack_32
+  - first:
+      213: -9026519076492594397
+    second: Ice Slime attack_33
+  - first:
+      213: 4088011749517251112
+    second: Ice Slime attack_34
+  - first:
+      213: 6715539484495267356
+    second: Ice Slime attack_35
+  - first:
+      213: -2438507052102087244
+    second: Ice Slime attack_36
+  - first:
+      213: -1157188035925552491
+    second: Ice Slime attack_37
+  - first:
+      213: 8009043833354827033
+    second: Ice Slime attack_38
+  - first:
+      213: -4892875241933422633
+    second: Ice Slime attack_39
+  - first:
+      213: -485675563207597732
+    second: Ice Slime attack_40
+  - first:
+      213: 2895019128010525267
+    second: Ice Slime attack_41
+  - first:
+      213: -6780910592192595849
+    second: Ice Slime attack_42
+  - first:
+      213: -5848095891580354240
+    second: Ice Slime attack_43
+  - first:
+      213: 1674609398313623438
+    second: Ice Slime attack_44
+  - first:
+      213: 1011901018306628429
+    second: Ice Slime attack_45
+  - first:
+      213: -1233037208668572600
+    second: Ice Slime attack_46
+  - first:
+      213: -2327209992159149393
+    second: Ice Slime attack_47
+  - first:
+      213: 3682998451576226432
+    second: Ice Slime attack_48
+  - first:
+      213: 1856867739770180083
+    second: Ice Slime attack_49
+  - first:
+      213: -6549137964625765931
+    second: Ice Slime attack_50
+  - first:
+      213: 3899484716832917549
+    second: Ice Slime attack_51
+  - first:
+      213: 1431227618740568187
+    second: Ice Slime attack_52
+  - first:
+      213: 525011587833387105
+    second: Ice Slime attack_53
+  - first:
+      213: -3227011016999376745
+    second: Ice Slime attack_54
+  - first:
+      213: -5841790722580776896
+    second: Ice Slime attack_55
+  - first:
+      213: 570454351359606692
+    second: Ice Slime attack_56
+  - first:
+      213: 8274210795997257868
+    second: Ice Slime attack_57
+  - first:
+      213: -8720856453904392717
+    second: Ice Slime attack_58
+  - first:
+      213: -6802181348121711955
+    second: Ice Slime attack_59
+  - first:
+      213: 7273687105527877930
+    second: Ice Slime attack_60
+  - first:
+      213: 7635166009880370953
+    second: Ice Slime attack_61
+  - first:
+      213: -1614911489902867833
+    second: Ice Slime attack_62
+  - first:
+      213: -8050450217945201550
+    second: Ice Slime attack_63
+  - first:
+      213: -9180077673242220500
+    second: Ice Slime attack_64
+  - first:
+      213: -7328849944971502981
+    second: Ice Slime attack_65
+  - first:
+      213: 4896993033618591190
+    second: Ice Slime attack_66
+  - first:
+      213: -2140243071836121373
+    second: Ice Slime attack_67
+  - first:
+      213: 1122113118749515641
+    second: Ice Slime attack_68
+  - first:
+      213: -189783153018968979
+    second: Ice Slime attack_69
+  - first:
+      213: -3702864396878719724
+    second: Ice Slime attack_70
+  - first:
+      213: 4712791612656726521
+    second: Ice Slime attack_71
+  - first:
+      213: 2175319008854308303
+    second: Ice Slime attack_72
+  - first:
+      213: 5004518088143449851
+    second: Ice Slime attack_73
+  - first:
+      213: 6170583197205375847
+    second: Ice Slime attack_74
+  - first:
+      213: 793477584179076023
+    second: Ice Slime attack_75
+  - first:
+      213: -562579805022400646
+    second: Ice Slime attack_76
+  - first:
+      213: 6811887499858086406
+    second: Ice Slime attack_77
+  - first:
+      213: -4502960661084083898
+    second: Ice Slime attack_78
+  - first:
+      213: -7369856578090759324
+    second: Ice Slime attack_79
+  - first:
+      213: -1278526745989382038
+    second: Ice Slime attack_80
+  - first:
+      213: -533912071826241099
+    second: Ice Slime attack_81
+  - first:
+      213: -6233780351189942141
+    second: Ice Slime attack_82
+  - first:
+      213: -5890879104832217183
+    second: Ice Slime attack_83
+  - first:
+      213: 4695887053560201772
+    second: Ice Slime attack_84
+  - first:
+      213: 2766131323739243145
+    second: Ice Slime attack_85
+  - first:
+      213: 4556614813564084662
+    second: Ice Slime attack_86
+  - first:
+      213: 7083405132298351716
+    second: Ice Slime attack_87
+  - first:
+      213: -7018830399149518474
+    second: Ice Slime attack_88
+  - first:
+      213: -6730257598258600796
+    second: Ice Slime attack_89
+  - first:
+      213: 8752009743519092956
+    second: Ice Slime attack_90
+  - first:
+      213: 5418983387239459647
+    second: Ice Slime attack_91
+  - first:
+      213: -660418082453280010
+    second: Ice Slime attack_92
+  - first:
+      213: -8668162984775912341
+    second: Ice Slime attack_93
+  - first:
+      213: -4427424372183306061
+    second: Ice Slime attack_94
+  - first:
+      213: -4602988895108560569
+    second: Ice Slime attack_95
+  - first:
+      213: -6377659088163695940
+    second: Ice Slime attack_96
+  - first:
+      213: 7813863283891859441
+    second: Ice Slime attack_97
+  - first:
+      213: 5301094441455384371
+    second: Ice Slime attack_98
+  - first:
+      213: 4638878772952077097
+    second: Ice Slime attack_99
+  - first:
+      213: -7903199244553963855
+    second: Ice Slime attack_100
+  - first:
+      213: 1127651809495996924
+    second: Ice Slime attack_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Slime attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f097573d5321dafe0800000000000000
+      internalID: -1176263905283573489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafde181042dd5e0800000000000000
+      internalID: -1883309480277574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129b22fb6bf999790800000000000000
+      internalID: -7522806095306114783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4266349d5ca1130800000000000000
+      internalID: 3538357994182288548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4a3873fcc4e5680800000000000000
+      internalID: -8764483371943091000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb846474667642ab0800000000000000
+      internalID: -5033784794513258309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e17ee6ab536e30800000000000000
+      internalID: 4495537625569026886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7109d39403ebd0800000000000000
+      internalID: -2602231126642558275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2879859bedfb7990800000000000000
+      internalID: -7387031575503210450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b42ec9c4d06fe0800000000000000
+      internalID: -1197723537668523693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b064b4b074e562610800000000000000
+      internalID: 1596066777174590987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2162b1cd7f25f3e0800000000000000
+      internalID: -2020656640638688980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80442506649b98410800000000000000
+      internalID: 1479917664482771976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957daccf053ebe150800000000000000
+      internalID: 5903061673577207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57cff1889192c5f0800000000000000
+      internalID: -737867304733259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e88d073cfb9ddb0800000000000000
+      internalID: -4766567884462191049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f7590a6f63ffc00800000000000000
+      internalID: 936527680400359244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afd8795f73f20730800000000000000
+      internalID: 3963998350326947750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de3c1110f472a970800000000000000
+      internalID: 8764696399244443353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88e16252a5dc190800000000000000
+      internalID: -7940591452384491327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf1391cfe1723c0800000000000000
+      internalID: -4384501644118590750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e83685cf29c470800000000000000
+      internalID: 8415309904125422032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9024932f7c5d61a0800000000000000
+      internalID: -6814688960014180195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8195a8d0a038a00800000000000000
+      internalID: 757460215600322759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9372d762eb9e0df0800000000000000
+      internalID: -212060735733075042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47212b1b12177720800000000000000
+      internalID: 2843761597336332107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f30c8ed390cb80800000000000000
+      internalID: -8376532722868029062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1a9cb7682c1120800000000000000
+      internalID: 2385826328610479790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db4469eb1b7f3550800000000000000
+      internalID: 6142763776566643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2158879d4146920800000000000000
+      internalID: 2982531777488556749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59679d9d763bd4500800000000000000
+      internalID: 382158802014271125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c59281dac22e70800000000000000
+      internalID: 9089049999174910429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0506b624555202f80800000000000000
+      internalID: -8133459878914334640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3233f5779bc5bb280800000000000000
+      internalID: -9026519076492594397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225997e6098bb830800000000000000
+      internalID: 4088011749517251112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c164378a493623d50800000000000000
+      internalID: 6715539484495267356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd8b2181cea82ed0800000000000000
+      internalID: -2438507052102087244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925354cc97d0ffe0800000000000000
+      internalID: -1157188035925552491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b5a5cee6d52f60800000000000000
+      internalID: 8009043833354827033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df314a14e3091cb0800000000000000
+      internalID: -4892875241933422633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516ce206a88249f0800000000000000
+      internalID: -485675563207597732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4707fe8c2d2820800000000000000
+      internalID: 2895019128010525267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783da24ebd55e1a0800000000000000
+      internalID: -6780910592192595849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Slime attack_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418ee965c367dea0800000000000000
+      internalID: -5848095891580354240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce2bcc28911754d45b7df1f4d35d1d16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice Slime attack_0: -1176263905283573489
+      Ice Slime attack_1: -1883309480277574951
+      Ice Slime attack_10: 1596066777174590987
+      Ice Slime attack_11: -2020656640638688980
+      Ice Slime attack_12: 1479917664482771976
+      Ice Slime attack_13: 5903061673577207641
+      Ice Slime attack_14: -737867304733259939
+      Ice Slime attack_15: -4766567884462191049
+      Ice Slime attack_16: 936527680400359244
+      Ice Slime attack_17: 3963998350326947750
+      Ice Slime attack_18: 8764696399244443353
+      Ice Slime attack_19: -7940591452384491327
+      Ice Slime attack_2: -7522806095306114783
+      Ice Slime attack_20: -4384501644118590750
+      Ice Slime attack_21: 8415309904125422032
+      Ice Slime attack_22: -6814688960014180195
+      Ice Slime attack_23: 757460215600322759
+      Ice Slime attack_24: -212060735733075042
+      Ice Slime attack_25: 2843761597336332107
+      Ice Slime attack_26: -8376532722868029062
+      Ice Slime attack_27: 2385826328610479790
+      Ice Slime attack_28: 6142763776566643673
+      Ice Slime attack_29: 2982531777488556749
+      Ice Slime attack_3: 3538357994182288548
+      Ice Slime attack_30: 382158802014271125
+      Ice Slime attack_31: 9089049999174910429
+      Ice Slime attack_32: -8133459878914334640
+      Ice Slime attack_33: -9026519076492594397
+      Ice Slime attack_34: 4088011749517251112
+      Ice Slime attack_35: 6715539484495267356
+      Ice Slime attack_36: -2438507052102087244
+      Ice Slime attack_37: -1157188035925552491
+      Ice Slime attack_38: 8009043833354827033
+      Ice Slime attack_39: -4892875241933422633
+      Ice Slime attack_4: -8764483371943091000
+      Ice Slime attack_40: -485675563207597732
+      Ice Slime attack_41: 2895019128010525267
+      Ice Slime attack_42: -6780910592192595849
+      Ice Slime attack_43: -5848095891580354240
+      Ice Slime attack_5: -5033784794513258309
+      Ice Slime attack_6: 4495537625569026886
+      Ice Slime attack_7: -2602231126642558275
+      Ice Slime attack_8: -7387031575503210450
+      Ice Slime attack_9: -1197723537668523693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

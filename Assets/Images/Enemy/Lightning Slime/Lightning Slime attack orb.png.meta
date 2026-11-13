@@ -1,0 +1,2095 @@
+fileFormatVersion: 2
+guid: 704ba00405199894db6821a4228836a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2960920099455345670
+    second: Lightning Slime attack orb_0
+  - first:
+      213: -8481167807322135942
+    second: Lightning Slime attack orb_1
+  - first:
+      213: 8993442179695453927
+    second: Lightning Slime attack orb_2
+  - first:
+      213: 2451277673081727465
+    second: Lightning Slime attack orb_3
+  - first:
+      213: -988234681389619590
+    second: Lightning Slime attack orb_4
+  - first:
+      213: -4159541045320076748
+    second: Lightning Slime attack orb_5
+  - first:
+      213: 1518099700007757330
+    second: Lightning Slime attack orb_6
+  - first:
+      213: 186485691891175653
+    second: Lightning Slime attack orb_7
+  - first:
+      213: -200279027931794652
+    second: Lightning Slime attack orb_8
+  - first:
+      213: 4211502112102201854
+    second: Lightning Slime attack orb_9
+  - first:
+      213: 6593809986605738509
+    second: Lightning Slime attack orb_10
+  - first:
+      213: 4682668600853872145
+    second: Lightning Slime attack orb_11
+  - first:
+      213: 8760831535949272952
+    second: Lightning Slime attack orb_12
+  - first:
+      213: 9132721854974369862
+    second: Lightning Slime attack orb_13
+  - first:
+      213: 1400877241741526991
+    second: Lightning Slime attack orb_14
+  - first:
+      213: 2632604731605986418
+    second: Lightning Slime attack orb_15
+  - first:
+      213: -2215167248454546793
+    second: Lightning Slime attack orb_16
+  - first:
+      213: -7338212688624432247
+    second: Lightning Slime attack orb_17
+  - first:
+      213: 5030452887158183143
+    second: Lightning Slime attack orb_18
+  - first:
+      213: -7660786335232412013
+    second: Lightning Slime attack orb_19
+  - first:
+      213: -5445393309466768411
+    second: Lightning Slime attack orb_20
+  - first:
+      213: 7326560122194503860
+    second: Lightning Slime attack orb_21
+  - first:
+      213: 4155912933417312769
+    second: Lightning Slime attack orb_22
+  - first:
+      213: -879650822371523214
+    second: Lightning Slime attack orb_23
+  - first:
+      213: -1288739587721663995
+    second: Lightning Slime attack orb_24
+  - first:
+      213: 5894384509585978178
+    second: Lightning Slime attack orb_25
+  - first:
+      213: -8014618363496164300
+    second: Lightning Slime attack orb_26
+  - first:
+      213: -9104255250077594939
+    second: Lightning Slime attack orb_27
+  - first:
+      213: -1841327102483193588
+    second: Lightning Slime attack orb_28
+  - first:
+      213: 1924656060388020654
+    second: Lightning Slime attack orb_29
+  - first:
+      213: -3839981575915015725
+    second: Lightning Slime attack orb_30
+  - first:
+      213: 4069181781552501798
+    second: Lightning Slime attack orb_31
+  - first:
+      213: -3079681351284530753
+    second: Lightning Slime attack orb_32
+  - first:
+      213: -2602353829438465790
+    second: Lightning Slime attack orb_33
+  - first:
+      213: -1046865714195939781
+    second: Lightning Slime attack orb_34
+  - first:
+      213: -8721329240825641282
+    second: Lightning Slime attack orb_35
+  - first:
+      213: 7895982324403129730
+    second: Lightning Slime attack orb_36
+  - first:
+      213: -4446047311115484045
+    second: Lightning Slime attack orb_37
+  - first:
+      213: -794185203416917718
+    second: Lightning Slime attack orb_38
+  - first:
+      213: 653566552536883314
+    second: Lightning Slime attack orb_39
+  - first:
+      213: 5681515606644917716
+    second: Lightning Slime attack orb_40
+  - first:
+      213: 6795027019827931301
+    second: Lightning Slime attack orb_41
+  - first:
+      213: -419697739457809348
+    second: Lightning Slime attack orb_42
+  - first:
+      213: -9005031518687648850
+    second: Lightning Slime attack orb_43
+  - first:
+      213: -5091611328121568616
+    second: Lightning Slime attack orb_44
+  - first:
+      213: -1202241445116300121
+    second: Lightning Slime attack orb_45
+  - first:
+      213: 8984046344113792380
+    second: Lightning Slime attack orb_46
+  - first:
+      213: 6455809874772615017
+    second: Lightning Slime attack orb_47
+  - first:
+      213: -1806511556432698449
+    second: Lightning Slime attack orb_48
+  - first:
+      213: -4552205576002246121
+    second: Lightning Slime attack orb_49
+  - first:
+      213: 7957167851384916016
+    second: Lightning Slime attack orb_50
+  - first:
+      213: 8045137560407429048
+    second: Lightning Slime attack orb_51
+  - first:
+      213: 7931971867286769449
+    second: Lightning Slime attack orb_52
+  - first:
+      213: 6541009012633950303
+    second: Lightning Slime attack orb_53
+  - first:
+      213: 4092533629189732304
+    second: Lightning Slime attack orb_54
+  - first:
+      213: 1087721091590138923
+    second: Lightning Slime attack orb_55
+  - first:
+      213: -4806997845022847797
+    second: Lightning Slime attack orb_56
+  - first:
+      213: -2759662373641820613
+    second: Lightning Slime attack orb_57
+  - first:
+      213: 5647676643966681196
+    second: Lightning Slime attack orb_58
+  - first:
+      213: 1141806772344156891
+    second: Lightning Slime attack orb_59
+  - first:
+      213: -3646765778412582775
+    second: Lightning Slime attack orb_60
+  - first:
+      213: 8187554611243318135
+    second: Lightning Slime attack orb_61
+  - first:
+      213: -4274432955297450433
+    second: Lightning Slime attack orb_62
+  - first:
+      213: 8854249038997864980
+    second: Lightning Slime attack orb_63
+  - first:
+      213: 3034165176072377655
+    second: Lightning Slime attack orb_64
+  - first:
+      213: -5936693785560318424
+    second: Lightning Slime attack orb_65
+  - first:
+      213: 5135339538936586599
+    second: Lightning Slime attack orb_66
+  - first:
+      213: -1859990739192655586
+    second: Lightning Slime attack orb_67
+  - first:
+      213: 1698717178805972568
+    second: Lightning Slime attack orb_68
+  - first:
+      213: -5349351693299587975
+    second: Lightning Slime attack orb_69
+  - first:
+      213: -623654279046239048
+    second: Lightning Slime attack orb_70
+  - first:
+      213: 916105055271905153
+    second: Lightning Slime attack orb_71
+  - first:
+      213: 8415545758976004310
+    second: Lightning Slime attack orb_72
+  - first:
+      213: 7536629970689572749
+    second: Lightning Slime attack orb_73
+  - first:
+      213: -836450196307275625
+    second: Lightning Slime attack orb_74
+  - first:
+      213: -2365239687240537813
+    second: Lightning Slime attack orb_75
+  - first:
+      213: -7775101745934851155
+    second: Lightning Slime attack orb_76
+  - first:
+      213: -4257861566284236725
+    second: Lightning Slime attack orb_77
+  - first:
+      213: -8081290821215149414
+    second: Lightning Slime attack orb_78
+  - first:
+      213: 88903331420048416
+    second: Lightning Slime attack orb_79
+  - first:
+      213: -5171990580574698679
+    second: Lightning Slime attack orb_80
+  - first:
+      213: 1178389558922912840
+    second: Lightning Slime attack orb_81
+  - first:
+      213: 3108914697361791696
+    second: Lightning Slime attack orb_82
+  - first:
+      213: 1929400758493273206
+    second: Lightning Slime attack orb_83
+  - first:
+      213: -5728623431564559942
+    second: Lightning Slime attack orb_84
+  - first:
+      213: -1731903941187542146
+    second: Lightning Slime attack orb_85
+  - first:
+      213: -8909557968290361305
+    second: Lightning Slime attack orb_86
+  - first:
+      213: -9222003430090723201
+    second: Lightning Slime attack orb_87
+  - first:
+      213: 5094503934084194006
+    second: Lightning Slime attack orb_88
+  - first:
+      213: 3726379400550704685
+    second: Lightning Slime attack orb_89
+  - first:
+      213: -3956898816456371383
+    second: Lightning Slime attack orb_90
+  - first:
+      213: -2825563430810176367
+    second: Lightning Slime attack orb_91
+  - first:
+      213: -2964528691999500438
+    second: Lightning Slime attack orb_92
+  - first:
+      213: -3781383590522261119
+    second: Lightning Slime attack orb_93
+  - first:
+      213: -5042636544586044060
+    second: Lightning Slime attack orb_94
+  - first:
+      213: 5827842365339280380
+    second: Lightning Slime attack orb_95
+  - first:
+      213: -1254064572194291188
+    second: Lightning Slime attack orb_96
+  - first:
+      213: 759533048195175519
+    second: Lightning Slime attack orb_97
+  - first:
+      213: 8830135211824219479
+    second: Lightning Slime attack orb_98
+  - first:
+      213: -7964813754024844723
+    second: Lightning Slime attack orb_99
+  - first:
+      213: -1122039939037028831
+    second: Lightning Slime attack orb_100
+  - first:
+      213: 7639778592332838390
+    second: Lightning Slime attack orb_101
+  - first:
+      213: 4279833652299577874
+    second: Lightning Slime attack orb_102
+  - first:
+      213: -5826741096888641716
+    second: Lightning Slime attack orb_103
+  - first:
+      213: 1575334175800960931
+    second: Lightning Slime attack orb_104
+  - first:
+      213: -2295985461447860360
+    second: Lightning Slime attack orb_105
+  - first:
+      213: 4404962836214354670
+    second: Lightning Slime attack orb_106
+  - first:
+      213: 2309283864180773775
+    second: Lightning Slime attack orb_107
+  - first:
+      213: -1556111197326464136
+    second: Lightning Slime attack orb_108
+  - first:
+      213: 2197277431731142104
+    second: Lightning Slime attack orb_109
+  - first:
+      213: 3835424429372431854
+    second: Lightning Slime attack orb_110
+  - first:
+      213: 5480984915074349362
+    second: Lightning Slime attack orb_111
+  - first:
+      213: -3073283058513225587
+    second: Lightning Slime attack orb_112
+  - first:
+      213: -3116704394378322132
+    second: Lightning Slime attack orb_113
+  - first:
+      213: -851474760977193566
+    second: Lightning Slime attack orb_114
+  - first:
+      213: 509428774544660780
+    second: Lightning Slime attack orb_115
+  - first:
+      213: -8743514999185405118
+    second: Lightning Slime attack orb_116
+  - first:
+      213: -8967889342200741813
+    second: Lightning Slime attack orb_117
+  - first:
+      213: 3010842267863492577
+    second: Lightning Slime attack orb_118
+  - first:
+      213: -5307883776010944955
+    second: Lightning Slime attack orb_119
+  - first:
+      213: -8464679915179361685
+    second: Lightning Slime attack orb_120
+  - first:
+      213: 2427445786553173669
+    second: Lightning Slime attack orb_121
+  - first:
+      213: -1521489536323343861
+    second: Lightning Slime attack orb_122
+  - first:
+      213: 1657063652203794300
+    second: Lightning Slime attack orb_123
+  - first:
+      213: 8352620369799477470
+    second: Lightning Slime attack orb_124
+  - first:
+      213: 504867357766072063
+    second: Lightning Slime attack orb_125
+  - first:
+      213: -7241486679106924675
+    second: Lightning Slime attack orb_126
+  - first:
+      213: 5756435453256106017
+    second: Lightning Slime attack orb_127
+  - first:
+      213: 3203636804473690050
+    second: Lightning Slime attack orb_128
+  - first:
+      213: -4252703989115136450
+    second: Lightning Slime attack orb_129
+  - first:
+      213: 2863680507184052798
+    second: Lightning Slime attack orb_130
+  - first:
+      213: -5438156806461289136
+    second: Lightning Slime attack orb_131
+  - first:
+      213: -2643133375460011283
+    second: Lightning Slime attack orb_132
+  - first:
+      213: 5360526878804246276
+    second: Lightning Slime attack orb_133
+  - first:
+      213: 8610005292575296269
+    second: Lightning Slime attack orb_134
+  - first:
+      213: -387879180640092709
+    second: Lightning Slime attack orb_135
+  - first:
+      213: -4145430840611993904
+    second: Lightning Slime attack orb_136
+  - first:
+      213: -6765716769225008210
+    second: Lightning Slime attack orb_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb56af6bd2b8e6d0800000000000000
+      internalID: -2960920099455345670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72e51c70d6dc4a80800000000000000
+      internalID: -8481167807322135942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e623cc53002fcc70800000000000000
+      internalID: 8993442179695453927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e1e56e00b40220800000000000000
+      internalID: 2451277673081727465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ec0d0bc51942f0800000000000000
+      internalID: -988234681389619590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4323a0d15775646c0800000000000000
+      internalID: -4159541045320076748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e69842af511510800000000000000
+      internalID: 1518099700007757330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0dddcafb7869200800000000000000
+      internalID: 186485691891175653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233a240947783df0800000000000000
+      internalID: -200279027931794652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b8a28bd2427a30800000000000000
+      internalID: 4211502112102201854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aee005f3be18b50800000000000000
+      internalID: 6593809986605738509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e35ca584e2cf040800000000000000
+      internalID: 4682668600853872145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877db457dd9b49970800000000000000
+      internalID: 8760831535949272952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a13ec322fdbe70800000000000000
+      internalID: 9132721854974369862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ceefdd6ae07310800000000000000
+      internalID: 1400877241741526991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c23652e04e88420800000000000000
+      internalID: 2632604731605986418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a89cdbf152241e0800000000000000
+      internalID: -2215167248454546793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bc640707e692a90800000000000000
+      internalID: -7338212688624432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d6669f32cfc540800000000000000
+      internalID: 5030452887158183143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963e4caa6b6fa590800000000000000
+      internalID: -7660786335232412013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebc1fec2a31e64b0800000000000000
+      internalID: -5445393309466768411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b822f40d9b2da560800000000000000
+      internalID: 7326560122194503860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1026ac14bc4cca930800000000000000
+      internalID: 4155912933417312769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754a26dc3adac3f0800000000000000
+      internalID: -879650822371523214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aedd94c2a7d1ee0800000000000000
+      internalID: -1288739587721663995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ff6f4b7f0dc150800000000000000
+      internalID: 5894384509585978178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4341d79cf0b56c090800000000000000
+      internalID: -8014618363496164300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac3a2261037a180800000000000000
+      internalID: -9104255250077594939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01a03d81ca4276e0800000000000000
+      internalID: -1841327102483193588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea11b3a5d70c5ba10800000000000000
+      internalID: 1924656060388020654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d17a8f0a15a5bac0800000000000000
+      internalID: -3839981575915015725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249de75543a87830800000000000000
+      internalID: 4069181781552501798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb16a4bb026c245d0800000000000000
+      internalID: -3079681351284530753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095170eaf492ebd0800000000000000
+      internalID: -2602353829438465790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb0d1fd29c871f0800000000000000
+      internalID: -1046865714195939781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64c57534d97f680800000000000000
+      internalID: -8721329240825641282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dcfced61a249d60800000000000000
+      internalID: 7895982324403129730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748166d6877c42c0800000000000000
+      internalID: -4446047311115484045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a299678e3cc7af4f0800000000000000
+      internalID: -794185203416917718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a909115fe11900800000000000000
+      internalID: 653566552536883314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d588ef975cc8de40800000000000000
+      internalID: 5681515606644917716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8660ca219cc4e50800000000000000
+      internalID: 6795027019827931301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34359e212fec2af0800000000000000
+      internalID: -419697739457809348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32d616b83b70380800000000000000
+      internalID: -9005031518687648850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89285fc3976f659b0800000000000000
+      internalID: -5091611328121568616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4379186c7c05fe0800000000000000
+      internalID: -1202241445116300121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ac8aec8ebdac70800000000000000
+      internalID: 8984046344113792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd74370e4a79950800000000000000
+      internalID: 6455809874772615017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e03c8f4bfde6e0800000000000000
+      internalID: -1806511556432698449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a65d1b52153d0c0800000000000000
+      internalID: -4552205576002246121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038c4ff700a8d6e60800000000000000
+      internalID: 7957167851384916016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfcc397cf116af60800000000000000
+      internalID: 8045137560407429048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f050e4366041e60800000000000000
+      internalID: 7931971867286769449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58dcae8a0556ca50800000000000000
+      internalID: 6541009012633950303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b13f07a99bc830800000000000000
+      internalID: 4092533629189732304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2eeed19c581f00800000000000000
+      internalID: 1087721091590138923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4853bdec1a4db0800000000000000
+      internalID: -4806997845022847797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36611741b5b3b9d0800000000000000
+      internalID: -2759662373641820613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6087e92cf3906e40800000000000000
+      internalID: 5647676643966681196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd275bbb53388df00800000000000000
+      internalID: 1141806772344156891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988caae88d5146dc0800000000000000
+      internalID: -3646765778412582775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf4461a8900a170800000000000000
+      internalID: 8187554611243318135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36b543cfd92ea4c0800000000000000
+      internalID: -4274432955297450433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412cf42d69c90ea70800000000000000
+      internalID: 8854249038997864980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73597a5e6258b1a20800000000000000
+      internalID: 3034165176072377655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e786bb470ac9da0800000000000000
+      internalID: -5936693785560318424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761655b3a14644740800000000000000
+      internalID: 5135339538936586599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Slime attack orb_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11d7e0074cff26e0800000000000000
+      internalID: -1859990739192655586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lightning Slime attack orb_0: -2960920099455345670
+      Lightning Slime attack orb_1: -8481167807322135942
+      Lightning Slime attack orb_10: 6593809986605738509
+      Lightning Slime attack orb_11: 4682668600853872145
+      Lightning Slime attack orb_12: 8760831535949272952
+      Lightning Slime attack orb_13: 9132721854974369862
+      Lightning Slime attack orb_14: 1400877241741526991
+      Lightning Slime attack orb_15: 2632604731605986418
+      Lightning Slime attack orb_16: -2215167248454546793
+      Lightning Slime attack orb_17: -7338212688624432247
+      Lightning Slime attack orb_18: 5030452887158183143
+      Lightning Slime attack orb_19: -7660786335232412013
+      Lightning Slime attack orb_2: 8993442179695453927
+      Lightning Slime attack orb_20: -5445393309466768411
+      Lightning Slime attack orb_21: 7326560122194503860
+      Lightning Slime attack orb_22: 4155912933417312769
+      Lightning Slime attack orb_23: -879650822371523214
+      Lightning Slime attack orb_24: -1288739587721663995
+      Lightning Slime attack orb_25: 5894384509585978178
+      Lightning Slime attack orb_26: -8014618363496164300
+      Lightning Slime attack orb_27: -9104255250077594939
+      Lightning Slime attack orb_28: -1841327102483193588
+      Lightning Slime attack orb_29: 1924656060388020654
+      Lightning Slime attack orb_3: 2451277673081727465
+      Lightning Slime attack orb_30: -3839981575915015725
+      Lightning Slime attack orb_31: 4069181781552501798
+      Lightning Slime attack orb_32: -3079681351284530753
+      Lightning Slime attack orb_33: -2602353829438465790
+      Lightning Slime attack orb_34: -1046865714195939781
+      Lightning Slime attack orb_35: -8721329240825641282
+      Lightning Slime attack orb_36: 7895982324403129730
+      Lightning Slime attack orb_37: -4446047311115484045
+      Lightning Slime attack orb_38: -794185203416917718
+      Lightning Slime attack orb_39: 653566552536883314
+      Lightning Slime attack orb_4: -988234681389619590
+      Lightning Slime attack orb_40: 5681515606644917716
+      Lightning Slime attack orb_41: 6795027019827931301
+      Lightning Slime attack orb_42: -419697739457809348
+      Lightning Slime attack orb_43: -9005031518687648850
+      Lightning Slime attack orb_44: -5091611328121568616
+      Lightning Slime attack orb_45: -1202241445116300121
+      Lightning Slime attack orb_46: 8984046344113792380
+      Lightning Slime attack orb_47: 6455809874772615017
+      Lightning Slime attack orb_48: -1806511556432698449
+      Lightning Slime attack orb_49: -4552205576002246121
+      Lightning Slime attack orb_5: -4159541045320076748
+      Lightning Slime attack orb_50: 7957167851384916016
+      Lightning Slime attack orb_51: 8045137560407429048
+      Lightning Slime attack orb_52: 7931971867286769449
+      Lightning Slime attack orb_53: 6541009012633950303
+      Lightning Slime attack orb_54: 4092533629189732304
+      Lightning Slime attack orb_55: 1087721091590138923
+      Lightning Slime attack orb_56: -4806997845022847797
+      Lightning Slime attack orb_57: -2759662373641820613
+      Lightning Slime attack orb_58: 5647676643966681196
+      Lightning Slime attack orb_59: 1141806772344156891
+      Lightning Slime attack orb_6: 1518099700007757330
+      Lightning Slime attack orb_60: -3646765778412582775
+      Lightning Slime attack orb_61: 8187554611243318135
+      Lightning Slime attack orb_62: -4274432955297450433
+      Lightning Slime attack orb_63: 8854249038997864980
+      Lightning Slime attack orb_64: 3034165176072377655
+      Lightning Slime attack orb_65: -5936693785560318424
+      Lightning Slime attack orb_66: 5135339538936586599
+      Lightning Slime attack orb_67: -1859990739192655586
+      Lightning Slime attack orb_7: 186485691891175653
+      Lightning Slime attack orb_8: -200279027931794652
+      Lightning Slime attack orb_9: 4211502112102201854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3d8b709dd973143adc4ed9af994e03, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  displayName: Dash
+  icon: {fileID: 0}
+  desc: Dash
+  element: 0
+  altAtk: 0
+  _skillType:
+    rid: 8017052778485514534
+  references:
+    version: 2
+    RefIds:
+    - rid: 8017052778485514534
+      type: {class: SkillDash, ns: , asm: Assembly-CSharp}
+      data:
+        cooldown: 1
+        charge: 2
+        castTime: 0
+        aniTime: 0
+        damageTypes: 
+        moveSpeed: 20
+        duration: 0.2
